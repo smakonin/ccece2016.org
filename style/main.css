@@ -479,6 +479,18 @@ ul li {
 .partner .partner-box:hover {
   opacity: 1;
 }
+
+.partner .partner-box-h1 {
+  background: url(../images/partner/host-1.png) no-repeat center center/contain;
+  height: 100px;
+  width: 300px;
+}
+.partner .partner-box-h2 {
+  background: url(../images/partner/host-2.png) no-repeat center center/contain;
+  height: 100px;
+  width: 500px;
+}
+
 .partner .partner-box-1 {
   background: url(../images/partner/partner-1.png) no-repeat center center/contain;
 }
