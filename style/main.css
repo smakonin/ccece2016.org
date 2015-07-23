@@ -323,8 +323,13 @@ ul li {
   text-decoration: none;
 }
 
-.logo img {
+.logo img.logo1 {
   width: 70px;
+}
+
+.logo img.logo2 {
+  width: 140px;
+  margin-left: 150px;
 }
 
 /* 
