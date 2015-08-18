@@ -306,6 +306,12 @@ ul li {
           transition: all 0.2s linear 0s;
 }
 
+
+.navbar-right {
+    /*width: 536px;*/
+    width: 680px;
+}
+
 .site-branding {
   float: left;
   margin-top: 0;
