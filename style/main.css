@@ -274,6 +274,7 @@ ul li {
 }
 .navbar-custom .navbar-nav li {
   margin: 0;
+  float:right;
 }
 .navbar-custom .navbar-nav > li > a {
   color: #fff;
@@ -281,6 +282,7 @@ ul li {
   font-size: 12px;
   font-weight: 400;
   border-bottom: 1px solid transparent;
+  padding-bottom: 3px;
 }
 .navbar-custom .navbar-nav > li > a:focus, .navbar-custom .navbar-nav > li > a:hover {
   background-color: transparent;
@@ -306,10 +308,10 @@ ul li {
           transition: all 0.2s linear 0s;
 }
 
-
 .navbar-right {
     /*width: 536px;*/
-    width: 680px;
+    /*width: 680px;*/
+    width: 788px;
 }
 
 .site-branding {
@@ -470,6 +472,10 @@ ul li {
   bottom: 5px;
   left: 5px;
   border: 1px solid #fff;
+}
+
+.submit {
+  background-color: #f8f8f8;
 }
 
 /* 
