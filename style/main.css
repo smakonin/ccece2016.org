@@ -644,3 +644,17 @@ ul li {
 .site-footer .social-block li a:hover, .site-footer .social-block li a:focus {
   opacity: 0.8;
 }
+
+#ieeec-logo {
+    width: 320px;
+    position: absolute;
+    bottom: 16px;
+    left: 16px;
+}
+
+#ieee-logo {
+    width: 150px;
+    position: absolute;
+    bottom: 16px;
+    right: 16px;
+}
