@@ -283,6 +283,8 @@ ul li {
   font-weight: 400;
   border-bottom: 1px solid transparent;
   padding-bottom: 3px;
+  padding-right: 8px;
+  padding-left: 8px;
 }
 .navbar-custom .navbar-nav > li > a:focus, .navbar-custom .navbar-nav > li > a:hover {
   background-color: transparent;
@@ -321,12 +323,18 @@ ul li {
 }
 .site-branding .logo {
   color: #fff;
-  font-size: 14px;
+  font-size: 20px;
   font-weight: 700;
   margin-right: 5px;
   letter-spacing: 3px;
   text-transform: uppercase;
 }
+
+.site-branding .logo span {
+    height: 100%;
+    vertical-align: middle;
+}
+
 .site-branding .logo:focus, .site-branding .logo:hover {
   text-decoration: none;
 }
@@ -645,16 +653,11 @@ ul li {
   opacity: 0.8;
 }
 
+
 #ieeec-logo {
     width: 320px;
-    position: absolute;
-    bottom: 16px;
-    left: 16px;
-}
-
-#ieee-logo {
-    width: 150px;
-    position: absolute;
-    bottom: 16px;
-    right: 16px;
+    display: block;
+    margin-left: auto; 
+    margin-right: auto;
+    margin-top: 64px;
 }
