@@ -506,39 +506,26 @@ ul li {
 }
 
 .partner .partner-box-h1 {
-  background: url(../images/partner/host-1.png) no-repeat center center/contain;
+  background: url(../images/ieeevancouver.png) no-repeat center center/contain;
   height: 100px;
   width: 300px;
 }
 .partner .partner-box-h2 {
-  background: url(../images/partner/host-2.png) no-repeat center center/contain;
+  background: url(../images/ieeecanada.png) no-repeat center center/contain;
   height: 100px;
   width: 500px;
 }
 
-.partner .partner-box-1 {
-  background: url(../images/partner/partner-1.png) no-repeat center center/contain;
+.partner .partner-box-s1 {
+  background: url(../images/ubc.png) no-repeat center center/contain;
+  height: 100px;
+  width: 300px;
 }
-.partner .partner-box-2 {
-  background: url(../images/partner/partner-2.png) no-repeat center center/contain;
-}
-.partner .partner-box-3 {
-  background: url(../images/partner/partner-3.png) no-repeat center center/contain;
-}
-.partner .partner-box-4 {
-  background: url(../images/partner/partner-4.png) no-repeat center center/contain;
-}
-.partner .partner-box-5 {
-  background: url(../images/partner/partner-5.png) no-repeat center center/contain;
-}
-.partner .partner-box-6 {
-  background: url(../images/partner/partner-6.png) no-repeat center center/contain;
-}
-.partner .partner-box-7 {
-  background: url(../images/partner/partner-7.png) no-repeat center center/contain;
-}
-.partner .partner-box-8 {
-  background: url(../images/partner/partner-8.png) no-repeat center center/contain;
+
+.partner .partner-box-b1 {
+  background: url(../images/bcit.png) no-repeat center center/contain;
+  height: 100px;
+  width: 300px;
 }
 
 /* 
