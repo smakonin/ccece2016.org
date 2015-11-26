@@ -516,6 +516,12 @@ ul li {
   width: 500px;
 }
 
+.partner .partner-box-p1 {
+  background: url(../images/telus.png) no-repeat center center/contain;
+  height: 100px;
+  width: 300px;
+}
+
 .partner .partner-box-s1 {
   background: url(../images/ubc.png) no-repeat center center/contain;
   height: 100px;
