@@ -534,6 +534,13 @@ ul li {
   width: 300px;
 }
 
+.partner .partner-box-b2 {
+  background: url(../images/mda.png) no-repeat center center/contain;
+  height: 100px;
+  width: 260px;
+  padding: 20px;
+}
+
 /* 
  * 6.8 Section: FAQ
  */
