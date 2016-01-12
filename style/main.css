@@ -522,6 +522,12 @@ ul li {
   width: 300px;
 }
 
+.partner .partner-box-g1 {
+  background: url(../images/sfu.png) no-repeat center center/contain;
+  height: 100px;
+  width: 300px;
+}
+
 .partner .partner-box-s1 {
   background: url(../images/ubc.png) no-repeat center center/contain;
   height: 100px;
