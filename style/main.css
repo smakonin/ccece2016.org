@@ -451,6 +451,34 @@ ul li {
   opacity: .7;
 }
 
+
+/* 
+ * 6.3a Section: Tutorials
+ */
+.tutorial {
+  text-align: left;
+  color: #313131;
+  text-transform: uppercase;
+  margin: 25px 0;
+}
+.tutorial h4 {
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+.tutorial p {
+  margin-bottom: 5px;
+}
+
+.tutorial p.descr {
+  margin-bottom: 5px;
+  text-align: justify;
+  text-transform: none;
+}
+
+.tutorial img:hover {
+  opacity: .7;
+}
+
 /* 
  * 6.4 Section: Registration & Pricing
  */
@@ -493,17 +521,21 @@ ul li {
 .partner {
   background-color: #f8f8f8;
 }
+
+.tutorials {
+  background-color: inherit;
+}
+
 .partner .partner-box {
   display: block;
-  opacity: 0.3;
+  opacity: 1.0;
   height: 150px;
   width: 150px;
   margin: 25px auto;
-  -webkit-transition: 0.5s all linear;
-          transition: 0.5s all linear;
 }
+
 .partner .partner-box:hover {
-  opacity: 1;
+  opacity: 0.3;
 }
 
 .partner .partner-box-h1 {

@@ -56,11 +56,12 @@
                     <!-- navigation menu in reverse-->
                     
                     <li><a href="http://www.ieee.ca/en/conferences/ccece/">Previous</a></li>
-                    <li><a data-scroll href="#location">Venue/Hotel/Transit</a></li>
+                    <li><a data-scroll href="#location">Venue/Transit</a></li>
                     <li><a data-scroll href="#sponsors">Sponsors/Patrons</a></li>                  
-                    <li><a data-scroll href="#submit">Paper Submission</a></li>
-                    <li><a data-scroll href="#committee">Committee</a></li>                  
+                    <li><a data-scroll href="#submit">Author Info</a></li>
+                    <!--<li><a data-scroll href="#tutorials">Tutorials</a></li>-->                 
                     <li><a data-scroll href="#keynotes">Keynotes</a></li>                  
+                    <li><a data-scroll href="#committee">Committee</a></li>                  
                     <li><a data-scroll href="#about">About</a></li>
                 
                 </ul>
@@ -86,7 +87,7 @@
         </div>        
     </header>
 
-    <section id="about" class="section about">
+    <section id="about" class="section about" style="padding-bottom:0;">
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
@@ -122,7 +123,7 @@
                     <ul class="list-arrow-right">
 
                         <li>Tutorial proposals (<a style="color: red; font-weight: bold;" href="docs/CCECE2016_CFT.pdf">view call</a>):<span><strong>Dec. 13, 2015</strong></span></li>
-                        <li>Invited sessions proposals (<a style="color: red; font-weight: bold;" href="docs/CCECE2016_CIS.pdf">view call</a>):<span><strong style="color: red;">Jan. 8, 2015</strong></span></li>
+                        <li>Invited sessions proposals (<a style="color: red; font-weight: bold;" href="docs/CCECE2016_CIS.pdf">view call</a>):<span><strong style="color: red;">Jan. 8, 2016</strong></span></li>
                         <li>Regular paper submission (<a style="color: red; font-weight: bold;" href="docs/CCECE2016_CFP.pdf">view call</a>):<span><strong style="color: red;">Jan. 13, 2016</strong></span></li>
                         <li>Acceptance notifications:<span><strong style="color: red;">Feb. 14, 2016</strong></span></li>
                         <li>Final paper submission:<span><strong>March 6, 2016</strong></span></li>
@@ -243,53 +244,6 @@
             </div><!-- /.row -->
         </div><!-- /.container -->
     </section>
-
-
-    <section id="keynotes" class="section submit">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-
-                    <h3 class="section-title">Keynote Speakers</h3>
-                
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="speaker">
-                        <figure>
-                            <img alt="" class="img-responsive center-block" src="images/kip.jpg">
-                        </figure>
-                        <h4>Kip Morison</h4>
-                        <p>Chief Information Officer @ BC Hydro </p>
-                    </div><!-- /.speaker -->
-                </div><!-- /.col-md-4 -->
-
-                <div class="col-md-4">
-                    <div class="speaker">
-                        <figure>
-                            <img alt="" class="img-responsive center-block" src="images/alan.jpg">
-                        </figure>
-                        <h4>Alan Thompson</h4>
-                        <p>Chief Systems Engineer @ MDA</p>
-                    </div><!-- /.speaker -->
-                </div><!-- /.col-md-4 -->
-
-                <div class="col-md-4">
-                    <div class="speaker">
-                    </div><!-- /.speaker -->
-                </div><!-- /.col-md-4 -->
-            </div><!-- /.row -->
-
-            <!--
-            <h4>Andrew Goldenburg</h4>
-            <p>Professor @ University of Toronto</p>
-            <h4>Jeremy Hilton</h4>
-            <p>VP of Processor Development at D-Wave</p>
-            -->
-        </div>
-    </section>
     
     <section id="committee" class="section speakers">
         <div class="container">
@@ -313,7 +267,6 @@
                     <h3 class="section-title">Organizing Committee</h3>
 
                     <ul class="list-arrow-right">
-
 
                         <li>General Co-Chairs
                             <p>Rodney Vaughan (Simon Fraser University)<br/>
@@ -364,7 +317,6 @@
                 </div><!-- /.col-sm-6 -->
 
                 <div class="col-sm-6">
-
 
                    <h3 class="section-title multiple-title">Technical Program Committee</h3>
 
@@ -427,13 +379,165 @@
         </div>
     </section>
 
-    
-    <section id="submit" class="section submit">
+    <section id="keynotes" class="section submit">
         <div class="container">
-            
-            <div class="col-sm-6">
-                <h3 class="section-title multiple-title">Paper Submission Guidelines</h3>
+            <div class="row">
+                <div class="col-md-12">
+
+                    <h3 class="section-title">Keynote Speakers</h3>
                 
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="speaker">
+                        <figure>
+                            <img alt="" class="img-responsive center-block" src="images/jeremy.jpg">
+                        </figure>
+                        <h4>Jeremy Hilton</h4>
+                        <p>VP of Processor Development @ D-Wave</p>
+                    </div><!-- /.speaker -->
+                </div><!-- /.col-md-4 -->
+
+                <div class="col-md-4">
+                    <div class="speaker">
+                        <figure>
+                            <img alt="" class="img-responsive center-block" src="images/kip.jpg">
+                        </figure>
+                        <h4>Kip Morison</h4>
+                        <p>Chief Information Officer @ BC Hydro </p>
+                    </div><!-- /.speaker -->
+                </div><!-- /.col-md-4 -->
+
+                <div class="col-md-4">
+                    <div class="speaker">
+                        <figure>
+                            <img alt="" class="img-responsive center-block" src="images/alan.jpg">
+                        </figure>
+                        <h4>Alan Thompson</h4>
+                        <p>Chief Systems Engineer @ MDA</p>
+                    </div><!-- /.speaker -->
+                </div><!-- /.col-md-4 -->
+
+                <div class="col-md-4">
+                    <div class="speaker">
+                    </div><!-- /.speaker -->
+                </div><!-- /.col-md-4 -->
+            </div><!-- /.row -->
+
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="speaker">
+                        <figure>
+                            <img alt="" class="img-responsive center-block" src="images/andrew.jpg">
+                        </figure>
+                        <h4>Andrew Goldenburg</h4>
+                        <p>Professor @ University of Toronto</p>
+                    </div><!-- /.speaker -->
+                </div><!-- /.col-md-4 -->
+            </div>
+        </div>
+    </section>
+    
+    <!--<section id="tutorials" class="section tutorials">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+
+                    <h3 class="section-title">Tutorials</h3>
+                
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="tutorial">
+                        <h4>1. Ground Fault Protection, Symmetrical Components and other Practical Protection Concerns</h4>
+                        <p>Rasheek Rifaat (Jacobs Canada, Canada)</p>
+                        <p class="descr">
+                        The majority of distribution system faults start as line-ground (L-G) faults. Accordingly, attention has been given to grounding or isolation of neutral points of sources and transformers and L-G fault protection. Understanding L-G faults is indispensable for achieving the correct balance between different protection aspects such as coordination, selectivity, speed and economics. Continuity of power supply is critical for many industrial systems, meanwhile, quick fault identification and quick protection tripping reduces the risk of fault advancement into multiple phase faults with damaging currents, arc flash energies and associated hazards. Several computer programs provide great tools for short circuit calculations and relay coordination. However, it is important for electrical engineers and system designers to augment the use of computer programs with comprehensive understanding of their systems. One of the brilliant calculation methods, introduced in 1917 and still being used, is the symmetrical components method. In addition to the introduction of symmetrical components, this tutorial includes discussion on system neutral grounding, medium and low voltage cable and system capacitances, high and low resistance grounding and protection for L-G faults. Relevant IEEE Standards for Recommended Practices in Industrial and Commercial Power Systems (Series 3000) will be identified and discussed.
+                        </p>
+                    </div>
+                </div>
+
+                 <div class="col-md-12">
+                    <div class="tutorial">
+                        <h4>2. Design Methodology and Circuit Techniques for Any-Load Stable LDO Regulators with Instant Load Control</h4>
+                        <p>Igor M. Filanovsky (University of  Alberta) &amp; Vadim Ivanov (Texas Instruments, USA)</p>
+                        <p class="descr">
+                        Application of the structural methodology to the LDO design creates a new class of circuits: any load stable, with instant transient response, large power supply rejection ratio and low noise. Presented are examples of the imbedded in SoC LDOs for the SRAM unit, (5 ns reaction time on the load steps), radio transmitter (shaping the required noise vs. frequency characteristic) and LDO for memory retention in the shutdown state (300 nA quiescent current). These LDOs can operate with or without off-chip load capacitors; they are robust to the process and temperature variations and portable to any CMOS process. The circuit techniques demonstrated during this course is proven in design of industrial circuits including LDO regulators.
+                        </p>
+                    </div>
+                </div>
+                
+                 <div class="col-md-12">
+                    <div class="tutorial">
+                        <h4>3. Wireless Communications with Energy Harvesting Nodes</h4>
+                        <p>Md. Jahangir Hossain (The University of British Columbia - Okanagan) &amp; Imtiaz Ahmed (McGill University)</p>
+                        <p class="descr">
+                        xxxx
+                        </p>
+                    </div>
+                </div>
+
+                 <div class="col-md-12">
+                    <div class="tutorial">
+                        <h4>4. Secure Routing</h4>
+                        <p>J. William Atwood (Concordia University)</p>
+                        <p class="descr">
+                        xxxx
+                        </p>
+                    </div>
+                </div>
+
+                 <div class="col-md-12">
+                    <div class="tutorial">
+                        <h4>5. Radiation Effects in Aerospace: Environment, Effects, Modeling, Design and Test</h4>
+                        <p>David Hiemstra (MDA, Canada), Li Chen (University of Saskatchewan), Ewart Blackmore (TRIUMF, Canada) &amp; Manoj Sachdev (University of Waterloo)</p>
+                        <p class="descr">
+                        xxxx
+                        </p>
+                    </div>
+                </div>
+
+                 <div class="col-md-12">
+                    <div class="tutorial">
+                        <h4>6. Social Learning and Controlled Sensing</h4>
+                        <p>Vikram Krishnamurthy (University of British Columbia)</p>
+                        <p class="descr">
+                        This tutorial describes the fundamentals of social learning and controlled sensing for adaptive decision making. Such tools are essential in the formulation of mathematical models and design of adaptive radars, reconfigurable sensors and social sensing. The tutorial is in three parts. The first part describes several examples. The second part gives a brief introduction to Bayesian estimation and filtering. The final part briefly outlines how stochastic control (partially observed Markov decision processes) can be used to design smart sensing systems.  The tutorial focuses primarily on conceptual formulation and algorithms – it does focus on technology.
+
+                        </p>
+                    </div>
+                </div>
+
+                 <div class="col-md-12">
+                    <div class="tutorial">
+                        <h4>7. Machine learning applications in computational cancer biology and genomics</h4>
+                        <p>Ali Bashashati (BC Cancer Agency) &amp; Hossein Farahani (BC Cancer Agency)</p>
+                        <p class="descr">
+                        Cancer is an evolutionary process comprised of competition between cells with different genomic abnormalities in the tumour. The cells with more advantageous mutations will prevail as they can divide faster compared to the other cells in the tumour. Genome contains all of the information needed to build and maintain an organism. Cancer is a disease of the genome and thanks to next-generation sequencing (NGS) technologies, the cost of turning the genomic information into digital information has dropped dramatically in the past few years. Over the next few years, thousands of individual cancer genomes will be sequenced (>250 GB per patient). These data will provide us with a fine-grained picture of the evolutionary processes that underlie the commonest genetic disease, providing new insights into the origins and new directions for the treatment of cancer. 
+
+                        </p>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </section>-->
+    
+    <section id="submit" class="section registration"><!--submit">-->
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h3 class="section-title">Author Information</h3>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <h4 class="section-title multiple-title">Paper Submission Guidelines</h4>
+
                 <p>Submitted papers must be unpublished and should not be submitted elsewhere at the same time. Accepted papers should not exceed 6 pages in two-column <a style="color: red; font-weight: bold;" href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html">IEEE Transactions style</a>. Accepted papers longer than 4 pages will be charged $100 for each extra page. Papers should be submitted as PDF files through the EDAS paper submission system (button is below). All submitted papers will be peer reviewed by at least three independent reviewers.</p>
 
                 <div class="text-center mt20">
@@ -442,9 +546,8 @@
                     <a class="btn btn-black" href="https://edas.info/N21433">Submit Paper Now</a>
                 </div>
             </div>
-
             <div class="col-sm-6">
-                <h3 class="section-title multiple-title">Important Note</h3>
+                <h4 class="section-title multiple-title">Important Note</h4>
                 
                 <p>To be published in the CCECE 2016 Conference Proceedings and to be eligible for publication in IEEE Xplore, an author of an accepted paper is required to register for the conference at the full (member or non-member) rate and the paper must be presented by an author of that paper at the conference unless the TPC Chair grants permission for a substitute presenter arranged in advance of the event and who is qualified both to present and answer questions. For authors with multiple accepted papers, one full registration is valid for one paper and the author pays an additional $200 dollars for each additional paper. However, only one copy of the proceedings will be provided.</p>
             </div>
@@ -453,9 +556,9 @@
     
     
     
-    <section id="registration" class="section registration">
+    <!--<section id="registration" class="section registration">
         <p>&nbsp;</p>
-    </section>    
+    </section>-->
     
 
     <section id="sponsors" class="section partner">
@@ -478,13 +581,6 @@
                 </div>
                 <div class="col-sm-9">
                     <a class="partner-box partner-box-h2" href="http://www.ieee.ca/en/" target="_blank"></a>
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col-md-12">
-                    <h4 class="section-title">Becoming a Patron</h4><!--Gold Level Patrons</h4>-->
-                    Do you sell products or services to engineers? <a style="color: red; font-weight: bold;" href="docs/CCECE2016_Patron.pdf">Becoming a Patron</a> at IEEE Canada's premier flagship conference and let Canada's electrical and computer engineers get to know your company. There are 4 levels of patronage: platinum, gold, silver, and bronze. <a style="color: red; font-weight: bold;" href="docs/CCECE2016_Patron.pdf">View our flyer</a> for more details.                
                 </div>
             </div>
 
@@ -541,6 +637,14 @@
                     <a class="partner-box partner-box-b2" href="http://www.mdacorporation.com/" target="_blank"></a>
                 </div>
             </div>   
+            
+            <div class="row">
+                <div class="col-md-12">
+                    <h4 class="section-title">Becoming a Patron</h4><!--Gold Level Patrons</h4>-->
+                    Do you sell products or services to engineers? <a style="color: red; font-weight: bold;" href="docs/CCECE2016_Patron.pdf">Becoming a Patron</a> at IEEE Canada's premier flagship conference and let Canada's electrical and computer engineers get to know your company. There are 4 levels of patronage: platinum, gold, silver, and bronze. <a style="color: red; font-weight: bold;" href="docs/CCECE2016_Patron.pdf">View our flyer</a> for more details.                
+                </div>
+            </div>
+        </div>
     </section>
 
 
