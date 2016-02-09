@@ -310,6 +310,11 @@ ul li {
           transition: all 0.2s linear 0s;
 }
 
+.navbar-details {
+  background-color: #000 !important;
+  padding: 0 !important;  
+}
+
 .navbar-right {
     /*width: 536px;*/
     /*width: 680px;*/
@@ -460,6 +465,7 @@ ul li {
   color: #313131;
   text-transform: uppercase;
   margin: 25px 0;
+  font-size: 0.8em;
 }
 .tutorial h4 {
   margin-top: 15px;
@@ -477,6 +483,22 @@ ul li {
 
 .tutorial img:hover {
   opacity: .7;
+}
+
+.tutorial p.descr strong.subsec {
+  font-weight: stronger;
+  font-size: 1.2em;
+}
+
+.tutorial hr {
+  margin-top: 32px;
+  margin-top: 32px;
+  border: solid 0.5px black;
+}
+
+.tutorial ul li, .tutorial ol li{
+  font-weight: 300;
+  text-transform: none;
 }
 
 /* 
