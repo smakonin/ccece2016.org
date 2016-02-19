@@ -460,22 +460,22 @@ ul li {
 /* 
  * 6.3a Section: Tutorials
  */
-.tutorial {
+.tutorial, .keynote {
   text-align: left;
   color: #313131;
   text-transform: uppercase;
   margin: 25px 0;
   font-size: 0.8em;
 }
-.tutorial h4 {
+.tutorial h4, .keynote h4 {
   margin-top: 15px;
   margin-bottom: 5px;
 }
-.tutorial p {
+.tutorial p, .keynote p {
   margin-bottom: 5px;
 }
 
-.tutorial p.descr {
+.tutorial p.descr, .keynote p.descr{
   margin-bottom: 5px;
   text-align: justify;
   text-transform: none;
@@ -485,18 +485,30 @@ ul li {
   opacity: .7;
 }
 
-.tutorial p.descr strong.subsec {
+.keynote img {
+  position: relative;
+  float: right;
+  margin-left: 2em;
+  width: 150px;
+}
+
+.keynote .descr {
+  padding-right: 150px;
+  margin-right: 2em;
+}
+
+.tutorial p.descr strong.subsec, .keynote p.descr strong.subsec {
   font-weight: stronger;
   font-size: 1.2em;
 }
 
-.tutorial hr {
+.tutorial hr, .keynote hr {
   margin-top: 32px;
   margin-top: 32px;
   border: solid 0.5px black;
 }
 
-.tutorial ul li, .tutorial ol li{
+.tutorial ul li, .tutorial ol li {
   font-weight: 300;
   text-transform: none;
 }
