@@ -502,7 +502,7 @@ ul li {
   font-size: 1.2em;
 }
 
-.tutorial hr, .keynote hr {
+.tutorial hr, .keynote hr, .event hr {
   margin-top: 32px;
   margin-top: 32px;
   border: solid 0.5px black;
