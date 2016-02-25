@@ -318,7 +318,8 @@ ul li {
 .navbar-right {
     /*width: 536px;*/
     /*width: 680px;*/
-    width: 788px;
+    /*width: 788px;*/
+    width: 900px;
 }
 
 .site-branding {
@@ -508,7 +509,7 @@ ul li {
   border: solid 0.5px black;
 }
 
-.tutorial ul li, .tutorial ol li {
+.tutorial ul li, .tutorial ol li, .event ul li, .event ol li {
   font-weight: 300;
   text-transform: none;
 }
