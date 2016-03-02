@@ -509,10 +509,24 @@ ul li {
   border: solid 0.5px black;
 }
 
-.tutorial ul li, .tutorial ol li, .event ul li, .event ol li {
+.tutorial ul li, .tutorial ol li, .event ul li, .event ol li, .event dl {
   font-weight: 300;
   text-transform: none;
 }
+
+.event dl dt {
+  font-weight: normal;
+  padding-left: 40px;
+  float: left;
+  width: 150px;
+}
+
+.event dl dd {
+  float: left;
+  width: calc(100% - 190px);;
+}
+
+
 
 /* 
  * 6.4 Section: Registration & Pricing
