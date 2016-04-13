@@ -535,6 +535,10 @@ ul li {
     font-size: 0.8em;
 }
 
+.program-session .session-title:before {
+  background-color: white;  
+}
+
 .program-session .session-title {
     width: 100%;
     background-color: #333;
@@ -542,6 +546,7 @@ ul li {
     padding: 4px;
     font-size: 1.2em;
     display: inline-block;
+    padding-top: 50px;
 }
 
 .program-session .header span {
@@ -575,8 +580,10 @@ ul li {
 
 .program-session dl dd ul li {
   padding-left: 0;
+  margin: 0;
   font-style: normal;
   font-weight: lighter;
+  
 }
 
 /* 

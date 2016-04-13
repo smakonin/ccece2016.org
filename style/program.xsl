@@ -23,7 +23,7 @@
     <link rel="stylesheet" href="style/main.css"/>
 </head>  
 <body data-spy="scroll" data-target="#site-nav">
-    <nav id="site-nav" class="navbar navbar-fixed-top navbar-details">
+    <nav id="site-nav" class="navbar  navbar-details">
         <div class="container">
             <div class="navbar-header">
                 <div class="site-branding">
@@ -43,9 +43,9 @@
           <xsl:for-each select="program/session">
           <div class="program-session">
               
-            <span class="session-title">
+            <span id="{code}" class="session-title">
               <span style="font-weight:bold"><xsl:value-of select="papers/paper/trackname"/>: </span> 
-              <xsl:value-of select="code"/> - <xsl:value-of select="sessiontitle"/>
+              <xsl:value-of select="code"/> &#8212; <xsl:value-of select="sessiontitle"/>
             </span>
               
             <strong>Date/Time/Location: </strong> &#160; <xsl:value-of select="date"/> @ <xsl:value-of select="range"/> in Room
@@ -64,14 +64,15 @@
               
             <dl>
             <xsl:for-each select="papers/paper">
-              <dt><xsl:value-of select="starttime"/>-<xsl:value-of select="endtime"/></dt>
+              <dt id="{paperid}" ><xsl:value-of select="starttime"/>-<xsl:value-of select="endtime"/></dt>
               <dd>
                 <span> <xsl:value-of select="papertitle"/></span>             
                 <ul>
                 <xsl:for-each select="authors/author">
-                  <xsl:if test="presenter=1">
-                  <li>Presented by <xsl:value-of select="name"/> (<xsl:value-of select="affiliation"/>, <xsl:value-of select="country"/>)</li>
-                  </xsl:if>
+                  <li>
+                    <xsl:value-of select="name"/> (<xsl:value-of select="affiliation"/>, <xsl:value-of select="country"/>)
+                    <xsl:if test="presenter=1"> * </xsl:if>
+                  </li>
                 </xsl:for-each>
                 </ul>
               </dd>
