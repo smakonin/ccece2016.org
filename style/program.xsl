@@ -22,20 +22,20 @@
     <link rel="stylesheet" href="style/ionicons.min.css"/>
     <link rel="stylesheet" href="style/main.css"/>
 </head>  
-<body>
-    <div id="site-nav" class="navbar navbar-fixed-top navbar-details">
+<body data-spy="scroll" data-target="#site-nav">
+    <nav id="site-nav" class="navbar navbar-fixed-top navbar-details">
         <div class="container">
             <div class="navbar-header">
                 <div class="site-branding">
                     <a class="logo" href="index.html">
                         <img class="logo1" src="images/ieee.png" alt="CCECE 2016"/>
-
-                        <span>CCECE 2016 | Program Details</span>
+                        
+                        <span> CCECE 2016 | Program Details</span>
                     </a>
                 </div>
             </div>
         </div>
-    </div>
+    </nav>
     
     <section id="s" class="section details" style="padding-top:5em;">
         <div class="container">
@@ -70,7 +70,7 @@
                 <ul>
                 <xsl:for-each select="authors/author">
                   <xsl:if test="presenter=1">
-                  <li>Presenter by <xsl:value-of select="name"/> (<xsl:value-of select="affiliation"/>, <xsl:value-of select="country"/>)</li>
+                  <li>Presented by <xsl:value-of select="name"/> (<xsl:value-of select="affiliation"/>, <xsl:value-of select="country"/>)</li>
                   </xsl:if>
                 </xsl:for-each>
                 </ul>
