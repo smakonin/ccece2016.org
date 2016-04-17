@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <?xml-stylesheet type="text/xsl" href="style/program.xsl" ?>
 <program>
   <session>
@@ -1578,7 +1577,7 @@ A 3D mapping algorithm is proposed that enables the fast moving quadrotor to mak
     <papers>
       <paper>
         <starttime>10:45</starttime>
-        <endtime>11:03</endtime>
+        <endtime>10:45</endtime>
         <paperid>1570244543</paperid>
         <sessionid>A1P-1.1</sessionid>
         <papertitle>Distributed Generation Long-Term Planning for Voltage Profile Enhancements Using Optimal Hourly Operation Conditions</papertitle>
@@ -1621,8 +1620,8 @@ A 3D mapping algorithm is proposed that enables the fast moving quadrotor to mak
         </authors>
       </paper>
       <paper>
-        <starttime>11:03</starttime>
-        <endtime>11:21</endtime>
+        <starttime>10:45</starttime>
+        <endtime>10:45</endtime>
         <paperid>1570241394</paperid>
         <sessionid>A1P-1.2</sessionid>
         <papertitle>Effective Input Features Selection For Electricity Price Forecasting</papertitle>
@@ -1654,8 +1653,8 @@ A 3D mapping algorithm is proposed that enables the fast moving quadrotor to mak
         </authors>
       </paper>
       <paper>
-        <starttime>11:21</starttime>
-        <endtime>11:39</endtime>
+        <starttime>10:45</starttime>
+        <endtime>10:45</endtime>
         <paperid>1570240736</paperid>
         <sessionid>A1P-1.3</sessionid>
         <papertitle>Fault Detection in Power System Using the Hilbert-Huang Transform</papertitle>
@@ -1698,8 +1697,8 @@ A 3D mapping algorithm is proposed that enables the fast moving quadrotor to mak
         </authors>
       </paper>
       <paper>
-        <starttime>11:39</starttime>
-        <endtime>11:57</endtime>
+        <starttime>10:45</starttime>
+        <endtime>10:45</endtime>
         <paperid>1570241440</paperid>
         <sessionid>A1P-1.4</sessionid>
         <papertitle>Optimal Tuning Of Power System Stabilizers By Biogeography Based Optimization Method</papertitle>
@@ -1769,7 +1768,7 @@ A 3D mapping algorithm is proposed that enables the fast moving quadrotor to mak
     <papers>
       <paper>
         <starttime>10:45</starttime>
-        <endtime>11:03</endtime>
+        <endtime>10:45</endtime>
         <paperid>1570241130</paperid>
         <sessionid>A1P-2.1</sessionid>
         <papertitle>A Simple Direct Adaptive Inverse Control Structure</papertitle>
@@ -1812,8 +1811,8 @@ A 3D mapping algorithm is proposed that enables the fast moving quadrotor to mak
         </authors>
       </paper>
       <paper>
-        <starttime>11:03</starttime>
-        <endtime>11:21</endtime>
+        <starttime>10:45</starttime>
+        <endtime>10:45</endtime>
         <paperid>1570243117</paperid>
         <sessionid>A1P-2.2</sessionid>
         <papertitle>Gradient-Based Methods of Tuning Noise Covariance for an Induction Motor Model</papertitle>
@@ -1834,8 +1833,8 @@ A 3D mapping algorithm is proposed that enables the fast moving quadrotor to mak
         </authors>
       </paper>
       <paper>
-        <starttime>11:21</starttime>
-        <endtime>11:39</endtime>
+        <starttime>10:45</starttime>
+        <endtime>10:45</endtime>
         <paperid>1570237519</paperid>
         <sessionid>A1P-2.3</sessionid>
         <papertitle>Airspace Configuration Model using Swarm Intelligence based Graph Partitioning</papertitle>
@@ -3506,7 +3505,7 @@ Experimental results on real hardware models demonstrate two orders of magnitude
     <papers>
       <paper>
         <starttime>13:30</starttime>
-        <endtime>13:48</endtime>
+        <endtime>13:30</endtime>
         <paperid>1570244461</paperid>
         <sessionid>A2P-2.1</sessionid>
         <papertitle>Automatic detection of basal cell carcinoma using vascular-extracted features from dermoscopy images</papertitle>
@@ -3549,8 +3548,8 @@ Experimental results on real hardware models demonstrate two orders of magnitude
         </authors>
       </paper>
       <paper>
-        <starttime>13:48</starttime>
-        <endtime>14:06</endtime>
+        <starttime>13:30</starttime>
+        <endtime>13:30</endtime>
         <paperid>1570244386</paperid>
         <sessionid>A2P-2.2</sessionid>
         <papertitle>Image Processing approach to Generate a Control Signal to Drive an Exoskeleton for Upper Extremity Rehabilitation</papertitle>
@@ -5037,7 +5036,7 @@ voltage of 2.5 V and with a supply voltage of 5.5 V. Since the design is based o
     <papers>
       <paper>
         <starttime>15:30</starttime>
-        <endtime>15:48</endtime>
+        <endtime>15:30</endtime>
         <paperid>1570241077</paperid>
         <sessionid>A3P-1.1</sessionid>
         <papertitle>A Review on the Proposed Solutions to Microgrid Protection Problems</papertitle>
@@ -5069,8 +5068,8 @@ voltage of 2.5 V and with a supply voltage of 5.5 V. Since the design is based o
         </authors>
       </paper>
       <paper>
-        <starttime>15:48</starttime>
-        <endtime>16:06</endtime>
+        <starttime>15:30</starttime>
+        <endtime>15:30</endtime>
         <paperid>1570224125</paperid>
         <sessionid>A3P-1.2</sessionid>
         <papertitle>A Survey on Recent Energy Harvesting Mechanisms</papertitle>
@@ -5124,8 +5123,8 @@ voltage of 2.5 V and with a supply voltage of 5.5 V. Since the design is based o
         </authors>
       </paper>
       <paper>
-        <starttime>16:06</starttime>
-        <endtime>16:24</endtime>
+        <starttime>15:30</starttime>
+        <endtime>15:30</endtime>
         <paperid>1570221479</paperid>
         <sessionid>A3P-1.3</sessionid>
         <papertitle>PV Harmonic Distribution Analysis for Various Conditions</papertitle>
@@ -5169,8 +5168,8 @@ voltage of 2.5 V and with a supply voltage of 5.5 V. Since the design is based o
         </authors>
       </paper>
       <paper>
-        <starttime>16:24</starttime>
-        <endtime>16:42</endtime>
+        <starttime>15:30</starttime>
+        <endtime>15:30</endtime>
         <paperid>1570235047</paperid>
         <sessionid>A3P-1.4</sessionid>
         <papertitle>Application of Dynamic Voltage Restorer for Power Quality Improvement in Induction Furnace</papertitle>
@@ -5202,8 +5201,8 @@ voltage of 2.5 V and with a supply voltage of 5.5 V. Since the design is based o
         </authors>
       </paper>
       <paper>
-        <starttime>16:42</starttime>
-        <endtime>17:00</endtime>
+        <starttime>15:30</starttime>
+        <endtime>15:30</endtime>
         <paperid>1570241061</paperid>
         <sessionid>A3P-1.5</sessionid>
         <papertitle>Performance Analysis of Boost Converter by Using Different Integration Algorithms</papertitle>
@@ -5251,7 +5250,7 @@ voltage of 2.5 V and with a supply voltage of 5.5 V. Since the design is based o
     <papers>
       <paper>
         <starttime>15:30</starttime>
-        <endtime>15:48</endtime>
+        <endtime>15:30</endtime>
         <paperid>1570217310</paperid>
         <sessionid>A3P-2.1</sessionid>
         <papertitle>An Efficient No-Reference Blurriness Metric for Images and Video frames</papertitle>
@@ -5283,8 +5282,8 @@ voltage of 2.5 V and with a supply voltage of 5.5 V. Since the design is based o
         </authors>
       </paper>
       <paper>
-        <starttime>15:48</starttime>
-        <endtime>16:06</endtime>
+        <starttime>15:30</starttime>
+        <endtime>15:30</endtime>
         <paperid>1570237977</paperid>
         <sessionid>A3P-2.2</sessionid>
         <papertitle>RDO Cost Modeling for Low-Complexity HEVC Intra Coding</papertitle>
@@ -5316,8 +5315,8 @@ voltage of 2.5 V and with a supply voltage of 5.5 V. Since the design is based o
         </authors>
       </paper>
       <paper>
-        <starttime>16:06</starttime>
-        <endtime>16:24</endtime>
+        <starttime>15:30</starttime>
+        <endtime>15:30</endtime>
         <paperid>1570241192</paperid>
         <sessionid>A3P-2.3</sessionid>
         <papertitle>SAR Image Despeckling Using Vector-Based Hidden Markov Model in Wavelet Domain</papertitle>
@@ -5360,8 +5359,8 @@ voltage of 2.5 V and with a supply voltage of 5.5 V. Since the design is based o
         </authors>
       </paper>
       <paper>
-        <starttime>16:24</starttime>
-        <endtime>16:42</endtime>
+        <starttime>15:30</starttime>
+        <endtime>15:30</endtime>
         <paperid>1570241221</paperid>
         <sessionid>A3P-2.4</sessionid>
         <papertitle>A Simulation Environment for Visual-Inertial Sensor Fusion</papertitle>
@@ -5405,8 +5404,8 @@ voltage of 2.5 V and with a supply voltage of 5.5 V. Since the design is based o
         </authors>
       </paper>
       <paper>
-        <starttime>16:42</starttime>
-        <endtime>17:00</endtime>
+        <starttime>15:30</starttime>
+        <endtime>15:30</endtime>
         <paperid>1570241236</paperid>
         <sessionid>A3P-2.5</sessionid>
         <papertitle>Automatic Cleavage Detection in H.264 Sequence of Human Embryo Development</papertitle>
@@ -5449,8 +5448,8 @@ voltage of 2.5 V and with a supply voltage of 5.5 V. Since the design is based o
         </authors>
       </paper>
       <paper>
-        <starttime>17:00</starttime>
-        <endtime>17:18</endtime>
+        <starttime>15:30</starttime>
+        <endtime>15:30</endtime>
         <paperid>1570244229</paperid>
         <sessionid>A3P-2.6</sessionid>
         <papertitle>Image Reconstruction from Discrete Orthogonal Racah Moments</papertitle>
@@ -5482,8 +5481,8 @@ voltage of 2.5 V and with a supply voltage of 5.5 V. Since the design is based o
         </authors>
       </paper>
       <paper>
-        <starttime>17:18</starttime>
-        <endtime>17:36</endtime>
+        <starttime>15:30</starttime>
+        <endtime>15:30</endtime>
         <paperid>1570244418</paperid>
         <sessionid>A3P-2.7</sessionid>
         <papertitle>Color Image Denoising using Multivariate Cauchy PDF in the Contourlet Domain</papertitle>
@@ -7007,7 +7006,7 @@ techniques.</abstract>
     <papers>
       <paper>
         <starttime>10:45</starttime>
-        <endtime>11:03</endtime>
+        <endtime>10:45</endtime>
         <paperid>1570244798</paperid>
         <sessionid>B1P-1.1</sessionid>
         <papertitle>Route Flap Damping Mechanism Modification to Improve BGP Convergence</papertitle>
@@ -7039,8 +7038,8 @@ techniques.</abstract>
         </authors>
       </paper>
       <paper>
-        <starttime>11:03</starttime>
-        <endtime>11:21</endtime>
+        <starttime>10:45</starttime>
+        <endtime>10:45</endtime>
         <paperid>1570234975</paperid>
         <sessionid>B1P-1.2</sessionid>
         <papertitle>Classifying Anomalous Events in BGP Datasets</papertitle>
@@ -7083,8 +7082,8 @@ techniques.</abstract>
         </authors>
       </paper>
       <paper>
-        <starttime>11:21</starttime>
-        <endtime>11:39</endtime>
+        <starttime>10:45</starttime>
+        <endtime>10:45</endtime>
         <paperid>1570241166</paperid>
         <sessionid>B1P-1.3</sessionid>
         <papertitle>Security Analysis of C-BGP: A Light Alternative to S-BGP</papertitle>
@@ -7138,8 +7137,8 @@ techniques.</abstract>
         </authors>
       </paper>
       <paper>
-        <starttime>11:39</starttime>
-        <endtime>11:57</endtime>
+        <starttime>10:45</starttime>
+        <endtime>10:45</endtime>
         <paperid>1570241169</paperid>
         <sessionid>B1P-1.4</sessionid>
         <papertitle>Privacy Risk Assessment for Web Tracking</papertitle>
@@ -7187,7 +7186,7 @@ techniques.</abstract>
     <papers>
       <paper>
         <starttime>10:45</starttime>
-        <endtime>11:03</endtime>
+        <endtime>10:45</endtime>
         <paperid>1570245513</paperid>
         <sessionid>B1P-2.1</sessionid>
         <papertitle>Read Disturbance and Temperature Variation Aware Spintronic Memristor Model</papertitle>
@@ -7254,8 +7253,8 @@ advantage of memristors and the good scalability, and radiation hardness of spin
         </authors>
       </paper>
       <paper>
-        <starttime>11:03</starttime>
-        <endtime>11:21</endtime>
+        <starttime>10:45</starttime>
+        <endtime>10:45</endtime>
         <paperid>1570244361</paperid>
         <sessionid>B1P-2.2</sessionid>
         <papertitle>A Cellular Automata Based Izhikevich Neuron Model</papertitle>
@@ -7309,8 +7308,8 @@ advantage of memristors and the good scalability, and radiation hardness of spin
         </authors>
       </paper>
       <paper>
-        <starttime>11:21</starttime>
-        <endtime>11:39</endtime>
+        <starttime>10:45</starttime>
+        <endtime>10:45</endtime>
         <paperid>1570235007</paperid>
         <sessionid>B1P-2.3</sessionid>
         <papertitle>A Fault Masking Dual Module Redundancy Method for FPGA</papertitle>
@@ -7353,8 +7352,8 @@ advantage of memristors and the good scalability, and radiation hardness of spin
         </authors>
       </paper>
       <paper>
-        <starttime>11:39</starttime>
-        <endtime>11:57</endtime>
+        <starttime>10:45</starttime>
+        <endtime>10:45</endtime>
         <paperid>1570236666</paperid>
         <sessionid>B1P-2.4</sessionid>
         <papertitle>The use of embedded DAS for electronic signal measurements</papertitle>
@@ -7386,8 +7385,8 @@ advantage of memristors and the good scalability, and radiation hardness of spin
         </authors>
       </paper>
       <paper>
-        <starttime>11:57</starttime>
-        <endtime>12:15</endtime>
+        <starttime>10:45</starttime>
+        <endtime>10:45</endtime>
         <paperid>1570241464</paperid>
         <sessionid>B1P-2.5</sessionid>
         <papertitle>Wearable system-on-module for prosopagnosia rehabilitation</papertitle>
@@ -7419,8 +7418,8 @@ advantage of memristors and the good scalability, and radiation hardness of spin
         </authors>
       </paper>
       <paper>
-        <starttime>12:15</starttime>
-        <endtime>12:33</endtime>
+        <starttime>10:45</starttime>
+        <endtime>10:45</endtime>
         <paperid>1570241313</paperid>
         <sessionid>B1P-2.6</sessionid>
         <papertitle>Orbital Angular Momentum (OAM) Modes for 2-D Beam-Steering of Circular Arrays</papertitle>
@@ -9092,7 +9091,7 @@ power system operation.</abstract>
     <papers>
       <paper>
         <starttime>13:30</starttime>
-        <endtime>13:48</endtime>
+        <endtime>13:30</endtime>
         <paperid>1570234939</paperid>
         <sessionid>B2P-1.1</sessionid>
         <papertitle>CF Technique with CPM Mappers in OFDM Systems for Reduction of PAPR</papertitle>
@@ -9124,8 +9123,8 @@ power system operation.</abstract>
         </authors>
       </paper>
       <paper>
-        <starttime>13:48</starttime>
-        <endtime>14:06</endtime>
+        <starttime>13:30</starttime>
+        <endtime>13:30</endtime>
         <paperid>1570241188</paperid>
         <sessionid>B2P-1.2</sessionid>
         <papertitle>Multi-Subcarrier OVSF Code Allocation in WCDMA</papertitle>
@@ -9168,8 +9167,8 @@ power system operation.</abstract>
         </authors>
       </paper>
       <paper>
-        <starttime>14:06</starttime>
-        <endtime>14:24</endtime>
+        <starttime>13:30</starttime>
+        <endtime>13:30</endtime>
         <paperid>1570244360</paperid>
         <sessionid>B2P-1.3</sessionid>
         <papertitle>Multi-Mode Multi-Level Continuous Phase Chirp Modulation: Coherent Detection</papertitle>
@@ -9201,8 +9200,8 @@ power system operation.</abstract>
         </authors>
       </paper>
       <paper>
-        <starttime>14:24</starttime>
-        <endtime>14:42</endtime>
+        <starttime>13:30</starttime>
+        <endtime>13:30</endtime>
         <paperid>1570241071</paperid>
         <sessionid>B2P-1.4</sessionid>
         <papertitle>Energy Efficient Adaptive Transmission in Generalized-K Fading Channel</papertitle>
@@ -9261,7 +9260,7 @@ power system operation.</abstract>
     <papers>
       <paper>
         <starttime>13:30</starttime>
-        <endtime>13:48</endtime>
+        <endtime>13:30</endtime>
         <paperid>1570235062</paperid>
         <sessionid>B2P-2.1</sessionid>
         <papertitle>Reconstruction-Error Distortion in LTI system modeling</papertitle>
@@ -9293,8 +9292,8 @@ power system operation.</abstract>
         </authors>
       </paper>
       <paper>
-        <starttime>13:48</starttime>
-        <endtime>14:06</endtime>
+        <starttime>13:30</starttime>
+        <endtime>13:30</endtime>
         <paperid>1570240206</paperid>
         <sessionid>B2P-2.2</sessionid>
         <papertitle>Perceptually Motivated Binaural Beamforming with Cues Preservation for Hearing Aids</papertitle>
@@ -9337,8 +9336,8 @@ power system operation.</abstract>
         </authors>
       </paper>
       <paper>
-        <starttime>14:06</starttime>
-        <endtime>14:24</endtime>
+        <starttime>13:30</starttime>
+        <endtime>13:30</endtime>
         <paperid>1570241237</paperid>
         <sessionid>B2P-2.3</sessionid>
         <papertitle>User-induced Antenna Variation and its Impact on the Performance of RSS-Based Indoor Positioning</papertitle>
@@ -9359,8 +9358,8 @@ power system operation.</abstract>
         </authors>
       </paper>
       <paper>
-        <starttime>14:24</starttime>
-        <endtime>14:42</endtime>
+        <starttime>13:30</starttime>
+        <endtime>13:30</endtime>
         <paperid>1570244926</paperid>
         <sessionid>B2P-2.4</sessionid>
         <papertitle>False Discovery Rate Controller for Functional Brain Parcellation</papertitle>
@@ -9414,8 +9413,8 @@ power system operation.</abstract>
         </authors>
       </paper>
       <paper>
-        <starttime>14:42</starttime>
-        <endtime>15:00</endtime>
+        <starttime>13:30</starttime>
+        <endtime>13:30</endtime>
         <paperid>1570245211</paperid>
         <sessionid>B2P-2.5</sessionid>
         <papertitle>Machine Learning for Quality Prediction in Abrasion- Resistant Material Manufacturing Process</papertitle>
@@ -10853,7 +10852,7 @@ privacy of both the client and the server.</abstract>
     <papers>
       <paper>
         <starttime>15:30</starttime>
-        <endtime>15:48</endtime>
+        <endtime>15:30</endtime>
         <paperid>1570244966</paperid>
         <sessionid>B3P-1.1</sessionid>
         <papertitle>IEEE 802.11 ac based Client Centered Indoor Positioning System</papertitle>
@@ -10885,8 +10884,8 @@ privacy of both the client and the server.</abstract>
         </authors>
       </paper>
       <paper>
-        <starttime>15:48</starttime>
-        <endtime>16:06</endtime>
+        <starttime>15:30</starttime>
+        <endtime>15:30</endtime>
         <paperid>1570244364</paperid>
         <sessionid>B3P-1.2</sessionid>
         <papertitle>Spatial direction corrections to improve indoor localization using inertial navigation with sensors on a smartphone</papertitle>
@@ -10918,8 +10917,8 @@ privacy of both the client and the server.</abstract>
         </authors>
       </paper>
       <paper>
-        <starttime>16:06</starttime>
-        <endtime>16:24</endtime>
+        <starttime>15:30</starttime>
+        <endtime>15:30</endtime>
         <paperid>1570244366</paperid>
         <sessionid>B3P-1.3</sessionid>
         <papertitle>Novel velocity model to improve indoor localization using inertial navigation with sensors on a smartphone</papertitle>
@@ -10951,8 +10950,8 @@ privacy of both the client and the server.</abstract>
         </authors>
       </paper>
       <paper>
-        <starttime>16:24</starttime>
-        <endtime>16:42</endtime>
+        <starttime>15:30</starttime>
+        <endtime>15:30</endtime>
         <paperid>1570244239</paperid>
         <sessionid>B3P-1.4</sessionid>
         <papertitle>Penalty Convex-Concave Procedure for Source Localization Problem</papertitle>
@@ -11000,7 +10999,7 @@ privacy of both the client and the server.</abstract>
     <papers>
       <paper>
         <starttime>15:30</starttime>
-        <endtime>15:48</endtime>
+        <endtime>15:30</endtime>
         <paperid>1570235078</paperid>
         <sessionid>B3P-3.1</sessionid>
         <papertitle>Intelligent Intrusion Prevention System For Households Based on System-On-Chip Computer</papertitle>
@@ -11065,8 +11064,8 @@ privacy of both the client and the server.</abstract>
         </authors>
       </paper>
       <paper>
-        <starttime>15:48</starttime>
-        <endtime>16:06</endtime>
+        <starttime>15:30</starttime>
+        <endtime>15:30</endtime>
         <paperid>1570235079</paperid>
         <sessionid>B3P-3.2</sessionid>
         <papertitle>A Heterogeneous Memory Organization with Minimum Energy Consumption in 3D Chip- Multiprocessors</papertitle>
@@ -11131,8 +11130,8 @@ privacy of both the client and the server.</abstract>
         </authors>
       </paper>
       <paper>
-        <starttime>16:06</starttime>
-        <endtime>16:24</endtime>
+        <starttime>15:30</starttime>
+        <endtime>15:30</endtime>
         <paperid>1570235382</paperid>
         <sessionid>B3P-3.3</sessionid>
         <papertitle>GPN Game Users Performance Data Gathering and Analysis by a Custom-Built Tool</papertitle>
@@ -11197,8 +11196,8 @@ privacy of both the client and the server.</abstract>
         </authors>
       </paper>
       <paper>
-        <starttime>16:24</starttime>
-        <endtime>16:42</endtime>
+        <starttime>15:30</starttime>
+        <endtime>15:30</endtime>
         <paperid>1570235392</paperid>
         <sessionid>B3P-3.4</sessionid>
         <papertitle>Sport Wearable Biometric Data Encrypted Emulation and Storage in Cloud</papertitle>
@@ -11254,8 +11253,8 @@ This research is a small part of a gamification/real-time solution and state tho
         </authors>
       </paper>
       <paper>
-        <starttime>16:42</starttime>
-        <endtime>17:00</endtime>
+        <starttime>15:30</starttime>
+        <endtime>15:30</endtime>
         <paperid>1570236740</paperid>
         <sessionid>B3P-3.5</sessionid>
         <papertitle>A review of Mobile Banking Security</papertitle>
@@ -11276,8 +11275,8 @@ This research is a small part of a gamification/real-time solution and state tho
         </authors>
       </paper>
       <paper>
-        <starttime>17:00</starttime>
-        <endtime>17:18</endtime>
+        <starttime>15:30</starttime>
+        <endtime>15:30</endtime>
         <paperid>1570237237</paperid>
         <sessionid>B3P-3.6</sessionid>
         <papertitle>Development of a Credible and Integrated Electronic Voting Machine Based on Contactless IC Cards, Biometric Fingerprint Credentials and POS Printer</papertitle>
@@ -11331,8 +11330,8 @@ This research is a small part of a gamification/real-time solution and state tho
         </authors>
       </paper>
       <paper>
-        <starttime>17:18</starttime>
-        <endtime>17:36</endtime>
+        <starttime>15:30</starttime>
+        <endtime>15:30</endtime>
         <paperid>1570238803</paperid>
         <sessionid>B3P-3.7</sessionid>
         <papertitle>TEFS: A Flash File System for Use on Memory Constrained Devices</papertitle>
@@ -11375,8 +11374,8 @@ This research is a small part of a gamification/real-time solution and state tho
         </authors>
       </paper>
       <paper>
-        <starttime>17:36</starttime>
-        <endtime>17:54</endtime>
+        <starttime>15:30</starttime>
+        <endtime>15:30</endtime>
         <paperid>1570239126</paperid>
         <sessionid>B3P-3.8</sessionid>
         <papertitle>Rapid design space exploration of multi-clock domain MPSoCs with Hybrid Prototyping</papertitle>
