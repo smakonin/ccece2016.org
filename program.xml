@@ -371,7 +371,7 @@
           <author>
             <name>
               <givenname>Mohamed</givenname>
-              <mi>G</mi>
+              <mi>G.</mi>
               <surname>Anany</surname>
             </name>
             <id>1354410</id>
@@ -387,7 +387,7 @@
             </name>
             <id>250517</id>
             <affiliation>Helwan University &amp; University College London (UCL)</affiliation>
-            <country>Egypt</country>
+            <country>United Kingdom</country>
             <presenter>0</presenter>
           </author>
         </authors>
@@ -507,7 +507,7 @@
               <surname>Trinchero</surname>
             </name>
             <id>321863</id>
-            <affiliation>Politecnico di Torino &amp; iXem Labs</affiliation>
+            <affiliation>Politecnico di Torino</affiliation>
             <country>Italy</country>
             <presenter>0</presenter>
           </author>
@@ -562,7 +562,7 @@
               <surname>Sun</surname>
             </name>
             <id>310891</id>
-            <affiliation>College of Navigation, Dalian Maritime University, Dalian</affiliation>
+            <affiliation>Dalian Maritime University</affiliation>
             <country>P.R. China</country>
             <presenter>0</presenter>
           </author>
@@ -649,7 +649,7 @@
           <author>
             <name>
               <givenname>Ahmed</givenname>
-              <mi>M</mi>
+              <mi>M.</mi>
               <surname>Ahmed</surname>
             </name>
             <id>1367911</id>
@@ -661,7 +661,7 @@
             <name>
               <givenname>Ala</givenname>
               <mi/>
-              <surname>Abu Alkheir</surname>
+              <surname>Abu-Alkheir</surname>
             </name>
             <id>223898</id>
             <affiliation>University of Ottawa</affiliation>
@@ -682,7 +682,7 @@
           <author>
             <name>
               <givenname>Hussein</givenname>
-              <mi>T</mi>
+              <mi>T.</mi>
               <surname>Mouftah</surname>
             </name>
             <id>105353</id>
@@ -796,7 +796,7 @@
               <surname>Wang</surname>
             </name>
             <id>85992</id>
-            <affiliation>Western University</affiliation>
+            <affiliation>University of Western Ontario</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -844,7 +844,7 @@
               <surname>Gazor</surname>
             </name>
             <id>997037</id>
-            <affiliation>Queens University</affiliation>
+            <affiliation>Queen's University</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -921,7 +921,7 @@
               <surname>Salehi</surname>
             </name>
             <id>1361014</id>
-            <affiliation>The University of Western Ontario</affiliation>
+            <affiliation>University of Western Ontario</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -999,7 +999,7 @@
               <surname>Chavan</surname>
             </name>
             <id>1371636</id>
-            <affiliation>National Institute of Technology Karnataka Surathkal</affiliation>
+            <affiliation>National Institute of Technology Karnataka</affiliation>
             <country>India</country>
             <presenter>0</presenter>
           </author>
@@ -1010,7 +1010,7 @@
               <surname>Koolagudi</surname>
             </name>
             <id>369969</id>
-            <affiliation>National Institute of Technology, Karnataka</affiliation>
+            <affiliation>National Institute of Technology Karnataka</affiliation>
             <country>India</country>
             <presenter>0</presenter>
           </author>
@@ -1142,7 +1142,7 @@ A 3D mapping algorithm is proposed that enables the fast moving quadrotor to mak
             <name>
               <givenname>Mohamed</givenname>
               <mi/>
-              <surname>Al Lawati</surname>
+              <surname>Al-Lawati</surname>
             </name>
             <id>1360639</id>
             <affiliation>Sultan Qaboos University</affiliation>
@@ -1630,9 +1630,9 @@ A 3D mapping algorithm is proposed that enables the fast moving quadrotor to mak
         <authors>
           <author>
             <name>
-              <givenname>Mohamed</givenname>
-              <mi>T</mi>
-              <surname>Abdussalam</surname>
+              <givenname>Abdussalam</givenname>
+              <mi>T.</mi>
+              <surname>Mohamed</surname>
             </name>
             <id>1368101</id>
             <affiliation>Dalhousie University</affiliation>
@@ -1712,7 +1712,7 @@ A 3D mapping algorithm is proposed that enables the fast moving quadrotor to mak
               <surname>Hasan</surname>
             </name>
             <id>921589</id>
-            <affiliation>Dalhousie University &amp; Halifax, Nova Scotia</affiliation>
+            <affiliation>Dalhousie University</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -1790,7 +1790,7 @@ A 3D mapping algorithm is proposed that enables the fast moving quadrotor to mak
             <name>
               <givenname>Mohamed</givenname>
               <mi/>
-              <surname>Al Lawati</surname>
+              <surname>Al-Lawati</surname>
             </name>
             <id>1360639</id>
             <affiliation>Sultan Qaboos University</affiliation>
@@ -2041,7 +2041,7 @@ A 3D mapping algorithm is proposed that enables the fast moving quadrotor to mak
               <surname>Osman</surname>
             </name>
             <id>1397508</id>
-            <affiliation>McGill University</affiliation>
+            <affiliation>McGill University &amp; Alexandria University</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -2176,7 +2176,7 @@ A 3D mapping algorithm is proposed that enables the fast moving quadrotor to mak
               <surname>Ramezanian Langeroudi</surname>
             </name>
             <id>1356441</id>
-            <affiliation>Islamic Azad University, Alborz Branch</affiliation>
+            <affiliation>Islamic Azad University</affiliation>
             <country>Iran</country>
             <presenter>0</presenter>
           </author>
@@ -2205,7 +2205,7 @@ A 3D mapping algorithm is proposed that enables the fast moving quadrotor to mak
           <author>
             <name>
               <givenname>Marvin</givenname>
-              <mi>R</mi>
+              <mi>R.</mi>
               <surname>Arias</surname>
             </name>
             <id>179410</id>
@@ -2220,7 +2220,7 @@ A 3D mapping algorithm is proposed that enables the fast moving quadrotor to mak
               <surname>López Poveda</surname>
             </name>
             <id>548197</id>
-            <affiliation>National University of Engineering (UNI-Nicaragua)</affiliation>
+            <affiliation>National University of Engineering</affiliation>
             <country>Nicaragua</country>
             <presenter>0</presenter>
           </author>
@@ -2275,7 +2275,7 @@ A 3D mapping algorithm is proposed that enables the fast moving quadrotor to mak
               <surname>Kaddour</surname>
             </name>
             <id>920933</id>
-            <affiliation>University of Oran 1 &amp; Laboratoire de l'Informatique et et des Technologies d'Information</affiliation>
+            <affiliation>University of Oran 1</affiliation>
             <country>Algeria</country>
             <presenter>0</presenter>
           </author>
@@ -2308,7 +2308,7 @@ A 3D mapping algorithm is proposed that enables the fast moving quadrotor to mak
               <surname>Ballantyne</surname>
             </name>
             <id>1364554</id>
-            <affiliation>Algonquin College &amp; Algonquin College</affiliation>
+            <affiliation>Algonquin College</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -2319,7 +2319,7 @@ A 3D mapping algorithm is proposed that enables the fast moving quadrotor to mak
               <surname>Almuhtadi</surname>
             </name>
             <id>264747</id>
-            <affiliation>Algonquin College &amp; Faculty of Technology &amp; Trades</affiliation>
+            <affiliation>Algonquin College</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -2619,7 +2619,7 @@ A 3D mapping algorithm is proposed that enables the fast moving quadrotor to mak
               <surname>Shami</surname>
             </name>
             <id>14165</id>
-            <affiliation>The University of Western Ontario</affiliation>
+            <affiliation>University of Western Ontario</affiliation>
             <country>Canada</country>
             <presenter>1</presenter>
           </author>
@@ -3181,7 +3181,7 @@ Experimental results on real hardware models demonstrate two orders of magnitude
               <surname>Chen</surname>
             </name>
             <id>1367778</id>
-            <affiliation>TUDresden</affiliation>
+            <affiliation>Dresden University of Technology</affiliation>
             <country>Germany</country>
             <presenter>1</presenter>
           </author>
@@ -3203,7 +3203,7 @@ Experimental results on real hardware models demonstrate two orders of magnitude
               <surname>Fettweis</surname>
             </name>
             <id>88975</id>
-            <affiliation>Technische Universitaet Dresden</affiliation>
+            <affiliation>Dresden University of Technology</affiliation>
             <country>Germany</country>
             <presenter>0</presenter>
           </author>
@@ -3269,7 +3269,7 @@ Experimental results on real hardware models demonstrate two orders of magnitude
               <surname>Alirezaee</surname>
             </name>
             <id>132644</id>
-            <affiliation>University of windsor</affiliation>
+            <affiliation>University of Windsor</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -3349,7 +3349,7 @@ Experimental results on real hardware models demonstrate two orders of magnitude
               <surname>Palizban</surname>
             </name>
             <id>786817</id>
-            <affiliation>British Columbia Institute of Technology (BCIT)</affiliation>
+            <affiliation>British Columbia Institute of Technology</affiliation>
             <country>Canada</country>
             <presenter>2</presenter>
           </author>
@@ -3519,7 +3519,7 @@ Experimental results on real hardware models demonstrate two orders of magnitude
               <surname>Kharazmi</surname>
             </name>
             <id>684769</id>
-            <affiliation>University of British Columbia &amp; British Columbia Cancer Research Centre, Vancouver, BC</affiliation>
+            <affiliation>University of British Columbia &amp; British Columbia Cancer Research Centre</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -3585,7 +3585,7 @@ Experimental results on real hardware models demonstrate two orders of magnitude
               <surname>Menon</surname>
             </name>
             <id>273161</id>
-            <affiliation>SFU</affiliation>
+            <affiliation>Simon Fraser University</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -3643,14 +3643,14 @@ Experimental results on real hardware models demonstrate two orders of magnitude
               <surname>Baun</surname>
             </name>
             <id>1370661</id>
-            <affiliation>Ryerson University &amp; Home: University of Applied Sciences Osnabrueck</affiliation>
-            <country>Germany</country>
+            <affiliation>Ryerson University</affiliation>
+            <country>Canada</country>
             <presenter>0</presenter>
           </author>
           <author>
             <name>
               <givenname>Mohamed</givenname>
-              <mi>A</mi>
+              <mi>A.</mi>
               <surname>Awadallah</surname>
             </name>
             <id>1054511</id>
@@ -3688,7 +3688,7 @@ Experimental results on real hardware models demonstrate two orders of magnitude
               <surname>Pitis</surname>
             </name>
             <id>1367688</id>
-            <affiliation>Powertech Labs Inc</affiliation>
+            <affiliation>Powertech Labs Inc.</affiliation>
             <country>Canada</country>
             <presenter>1</presenter>
           </author>
@@ -3755,7 +3755,7 @@ Experimental results on real hardware models demonstrate two orders of magnitude
               <surname>Guo</surname>
             </name>
             <id>1367630</id>
-            <affiliation>Powertech Labs Inc</affiliation>
+            <affiliation>Powertech Labs Inc.</affiliation>
             <country>Canada</country>
             <presenter>1</presenter>
           </author>
@@ -3766,7 +3766,7 @@ Experimental results on real hardware models demonstrate two orders of magnitude
               <surname>Qu</surname>
             </name>
             <id>1367631</id>
-            <affiliation>Powertech Labs Inc</affiliation>
+            <affiliation>Powertech Labs Inc.</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -3788,7 +3788,7 @@ Experimental results on real hardware models demonstrate two orders of magnitude
               <surname>Crozier</surname>
             </name>
             <id>925929</id>
-            <affiliation>Powertech Labs</affiliation>
+            <affiliation>Powertech Labs Inc.</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -3799,7 +3799,7 @@ Experimental results on real hardware models demonstrate two orders of magnitude
               <surname>Allen</surname>
             </name>
             <id>1367632</id>
-            <affiliation>Powertech Labs Inc</affiliation>
+            <affiliation>Powertech Labs Inc.</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -3854,7 +3854,7 @@ Experimental results on real hardware models demonstrate two orders of magnitude
               <surname>Marti</surname>
             </name>
             <id>104667</id>
-            <affiliation>The University of British Columbia</affiliation>
+            <affiliation>University of British Columbia</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -4077,7 +4077,7 @@ Experimental results on real hardware models demonstrate two orders of magnitude
               <surname>Wang</surname>
             </name>
             <id>85992</id>
-            <affiliation>Western University</affiliation>
+            <affiliation>University of Western Ontario</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -4103,7 +4103,7 @@ Experimental results on real hardware models demonstrate two orders of magnitude
           <mi/>
           <surname>Shami</surname>
         </name>
-        <affiliation>The University of Western Ontario</affiliation>
+        <affiliation>University of Western Ontario</affiliation>
         <country>Canada</country>
       </chair>
     </chairs>
@@ -4124,7 +4124,7 @@ Experimental results on real hardware models demonstrate two orders of magnitude
               <surname>Noorwali</surname>
             </name>
             <id>1231753</id>
-            <affiliation>The University of Western Ontario</affiliation>
+            <affiliation>University of Western Ontario</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -4146,7 +4146,7 @@ Experimental results on real hardware models demonstrate two orders of magnitude
               <surname>Rao</surname>
             </name>
             <id>91064</id>
-            <affiliation>The University of Western Ontario</affiliation>
+            <affiliation>University of Western Ontario</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -4157,7 +4157,7 @@ Experimental results on real hardware models demonstrate two orders of magnitude
               <surname>Shami</surname>
             </name>
             <id>14165</id>
-            <affiliation>The University of Western Ontario</affiliation>
+            <affiliation>University of Western Ontario</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -4201,7 +4201,7 @@ Experimental results on real hardware models demonstrate two orders of magnitude
               <surname>Kaddour</surname>
             </name>
             <id>920933</id>
-            <affiliation>University of Oran 1 &amp; Laboratoire de l'Informatique et et des Technologies d'Information</affiliation>
+            <affiliation>University of Oran 1</affiliation>
             <country>Algeria</country>
             <presenter>0</presenter>
           </author>
@@ -4234,7 +4234,7 @@ Experimental results on real hardware models demonstrate two orders of magnitude
               <surname>Ashraf</surname>
             </name>
             <id>1360419</id>
-            <affiliation>Abasyn University Islamabad Campus &amp; Islamabad Electric Supply Company Limited</affiliation>
+            <affiliation>Abasyn University &amp; Islamabad Electric Supply Company Limited</affiliation>
             <country>Pakistan</country>
             <presenter>0</presenter>
           </author>
@@ -4256,7 +4256,7 @@ Experimental results on real hardware models demonstrate two orders of magnitude
               <surname>Noorwali</surname>
             </name>
             <id>1231753</id>
-            <affiliation>The University of Western Ontario</affiliation>
+            <affiliation>University of Western Ontario</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -4267,7 +4267,7 @@ Experimental results on real hardware models demonstrate two orders of magnitude
               <surname>Rao</surname>
             </name>
             <id>91064</id>
-            <affiliation>The University of Western Ontario</affiliation>
+            <affiliation>University of Western Ontario</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -4278,7 +4278,7 @@ Experimental results on real hardware models demonstrate two orders of magnitude
               <surname>Shami</surname>
             </name>
             <id>14165</id>
-            <affiliation>The University of Western Ontario</affiliation>
+            <affiliation>University of Western Ontario</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -4296,7 +4296,7 @@ Experimental results on real hardware models demonstrate two orders of magnitude
           <author>
             <name>
               <givenname>Ahmed</givenname>
-              <mi>M</mi>
+              <mi>M.</mi>
               <surname>Ahmed</surname>
             </name>
             <id>1367911</id>
@@ -4308,7 +4308,7 @@ Experimental results on real hardware models demonstrate two orders of magnitude
             <name>
               <givenname>Ala</givenname>
               <mi/>
-              <surname>Abu Alkheir</surname>
+              <surname>Abu-Alkheir</surname>
             </name>
             <id>223898</id>
             <affiliation>University of Ottawa</affiliation>
@@ -4329,7 +4329,7 @@ Experimental results on real hardware models demonstrate two orders of magnitude
           <author>
             <name>
               <givenname>Hussein</givenname>
-              <mi>T</mi>
+              <mi>T.</mi>
               <surname>Mouftah</surname>
             </name>
             <id>105353</id>
@@ -4702,7 +4702,7 @@ A robust model is sought for the identification of electroencephalographic (EEG)
               <surname>Menon</surname>
             </name>
             <id>273161</id>
-            <affiliation>SFU</affiliation>
+            <affiliation>Simon Fraser University</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -5194,7 +5194,7 @@ voltage of 2.5 V and with a supply voltage of 5.5 V. Since the design is based o
               <surname>Singh</surname>
             </name>
             <id>945897</id>
-            <affiliation>BBSBEC, Fatehgarh Sahib</affiliation>
+            <affiliation>Baba Banda Singh Bahadur Engineering College</affiliation>
             <country>India</country>
             <presenter>0</presenter>
           </author>
@@ -5216,14 +5216,14 @@ voltage of 2.5 V and with a supply voltage of 5.5 V. Since the design is based o
               <surname>AbdEl-Gawad</surname>
             </name>
             <id>1039131</id>
-            <affiliation>UOIT</affiliation>
+            <affiliation>University of Ontario Institute of Technology</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
           <author>
             <name>
               <givenname>Vijay</givenname>
-              <mi>K</mi>
+              <mi>K.</mi>
               <surname>Sood</surname>
             </name>
             <id>336609</id>
@@ -5264,7 +5264,7 @@ voltage of 2.5 V and with a supply voltage of 5.5 V. Since the design is based o
               <surname>Uzair</surname>
             </name>
             <id>546465</id>
-            <affiliation>NIL</affiliation>
+            <affiliation>University of Guelph</affiliation>
             <country>Canada</country>
             <presenter>1</presenter>
           </author>
@@ -5297,7 +5297,7 @@ voltage of 2.5 V and with a supply voltage of 5.5 V. Since the design is based o
               <surname>Jamali</surname>
             </name>
             <id>433437</id>
-            <affiliation>École de Technologie Supérieure, Université du Québec</affiliation>
+            <affiliation>École de Technologie Supérieure</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -5591,7 +5591,7 @@ techniques.</abstract>
               <surname>Leung</surname>
             </name>
             <id>3003</id>
-            <affiliation>The University of British Columbia</affiliation>
+            <affiliation>University of British Columbia</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -5723,7 +5723,7 @@ techniques.</abstract>
               <surname>Shami</surname>
             </name>
             <id>14165</id>
-            <affiliation>The University of Western Ontario</affiliation>
+            <affiliation>University of Western Ontario</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -5745,7 +5745,7 @@ techniques.</abstract>
               <surname>Li</surname>
             </name>
             <id>355201</id>
-            <affiliation>The University of Western Ontario</affiliation>
+            <affiliation>University of Western Ontario</affiliation>
             <country>Canada</country>
             <presenter>1</presenter>
           </author>
@@ -5756,7 +5756,7 @@ techniques.</abstract>
               <surname>Wang</surname>
             </name>
             <id>85992</id>
-            <affiliation>Western University</affiliation>
+            <affiliation>University of Western Ontario</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -5779,7 +5779,7 @@ techniques.</abstract>
       <chair>
         <name>
           <givenname>Hussein</givenname>
-          <mi>T</mi>
+          <mi>T.</mi>
           <surname>Mouftah</surname>
         </name>
         <affiliation>University of Ottawa</affiliation>
@@ -5799,18 +5799,18 @@ techniques.</abstract>
           <author>
             <name>
               <givenname>Nabil</givenname>
-              <mi>A</mi>
+              <mi>A.</mi>
               <surname>Naas</surname>
             </name>
             <id>129027</id>
-            <affiliation>University of Ottawa &amp; University of Tripoli, Tripoli-Libya</affiliation>
+            <affiliation>University of Ottawa &amp; University of Tripoli</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
           <author>
             <name>
               <givenname>Hussein</givenname>
-              <mi>T</mi>
+              <mi>T.</mi>
               <surname>Mouftah</surname>
             </name>
             <id>105353</id>
@@ -5847,7 +5847,7 @@ techniques.</abstract>
               <surname>Al Mamoori</surname>
             </name>
             <id>956137</id>
-            <affiliation>University of Windsor &amp; University of Windsor</affiliation>
+            <affiliation>University of Windsor</affiliation>
             <country>Canada</country>
             <presenter>1</presenter>
           </author>
@@ -5953,7 +5953,7 @@ techniques.</abstract>
           <author>
             <name>
               <givenname>Xavier</givenname>
-              <mi>N</mi>
+              <mi>N.</mi>
               <surname>Fernando</surname>
             </name>
             <id>92159</id>
@@ -6012,7 +6012,7 @@ techniques.</abstract>
               <surname>Gazor</surname>
             </name>
             <id>997037</id>
-            <affiliation>Queens University</affiliation>
+            <affiliation>Queen's University</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -6214,7 +6214,7 @@ techniques.</abstract>
               <surname>Azhar</surname>
             </name>
             <id>1184763</id>
-            <affiliation>UET Taxila</affiliation>
+            <affiliation>University of Engineering and Technology Taxila</affiliation>
             <country>Pakistan</country>
             <presenter>0</presenter>
           </author>
@@ -6225,7 +6225,7 @@ techniques.</abstract>
               <surname>Murtaza</surname>
             </name>
             <id>1367863</id>
-            <affiliation>UET Taxila</affiliation>
+            <affiliation>University of Engineering and Technology Taxila</affiliation>
             <country>Pakistan</country>
             <presenter>0</presenter>
           </author>
@@ -6236,7 +6236,7 @@ techniques.</abstract>
               <surname>Yousaf</surname>
             </name>
             <id>690819</id>
-            <affiliation>University of Engineering and Technology, Taxila</affiliation>
+            <affiliation>University of Engineering and Technology Taxila</affiliation>
             <country>Pakistan</country>
             <presenter>1</presenter>
           </author>
@@ -6247,7 +6247,7 @@ techniques.</abstract>
               <surname>Habib</surname>
             </name>
             <id>1367862</id>
-            <affiliation>UET Taxila</affiliation>
+            <affiliation>University of Engineering and Technology Taxila</affiliation>
             <country>Pakistan</country>
             <presenter>0</presenter>
           </author>
@@ -6317,7 +6317,7 @@ techniques.</abstract>
               <surname>Shi</surname>
             </name>
             <id>1364282</id>
-            <affiliation>Institute of Information Engineering, Chinese Academic Sciences</affiliation>
+            <affiliation>Chinese Academy of Sciences</affiliation>
             <country>P.R. China</country>
             <presenter>0</presenter>
           </author>
@@ -6328,7 +6328,7 @@ techniques.</abstract>
               <surname>Sun</surname>
             </name>
             <id>1342146</id>
-            <affiliation>Institute of Information Engineering, Chinese Academy of Sciences</affiliation>
+            <affiliation>Chinese Academy of Sciences</affiliation>
             <country>P.R. China</country>
             <presenter>0</presenter>
           </author>
@@ -6350,7 +6350,7 @@ techniques.</abstract>
               <surname>Zhang</surname>
             </name>
             <id>1019955</id>
-            <affiliation>Institute of Information Engineering</affiliation>
+            <affiliation>Chinese Academy of Sciences</affiliation>
             <country>P.R. China</country>
             <presenter>0</presenter>
           </author>
@@ -6361,7 +6361,7 @@ techniques.</abstract>
               <surname>Wei</surname>
             </name>
             <id>606981</id>
-            <affiliation>Institute of Information Engineering，Chinese Academy of Sciences</affiliation>
+            <affiliation>Chinese Academy of Sciences</affiliation>
             <country>P.R. China</country>
             <presenter>0</presenter>
           </author>
@@ -6742,7 +6742,7 @@ techniques.</abstract>
               <surname>Guo</surname>
             </name>
             <id>1367630</id>
-            <affiliation>Powertech Labs Inc</affiliation>
+            <affiliation>Powertech Labs Inc.</affiliation>
             <country>Canada</country>
             <presenter>2</presenter>
           </author>
@@ -6753,7 +6753,7 @@ techniques.</abstract>
               <surname>Qu</surname>
             </name>
             <id>1367631</id>
-            <affiliation>Powertech Labs Inc</affiliation>
+            <affiliation>Powertech Labs Inc.</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -6764,7 +6764,7 @@ techniques.</abstract>
               <surname>Pitis</surname>
             </name>
             <id>1367688</id>
-            <affiliation>Powertech Labs Inc</affiliation>
+            <affiliation>Powertech Labs Inc.</affiliation>
             <country>Canada</country>
             <presenter>1</presenter>
           </author>
@@ -6907,7 +6907,7 @@ techniques.</abstract>
               <surname>Debibi</surname>
             </name>
             <id>1397238</id>
-            <affiliation>UQAR</affiliation>
+            <affiliation>Université du Québec à Rimouski</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -7126,7 +7126,7 @@ techniques.</abstract>
           <author>
             <name>
               <givenname>Hussein</givenname>
-              <mi>T</mi>
+              <mi>T.</mi>
               <surname>Mouftah</surname>
             </name>
             <id>105353</id>
@@ -7163,7 +7163,7 @@ techniques.</abstract>
               <surname>Kaffel-Ben Ayed</surname>
             </name>
             <id>313481</id>
-            <affiliation>Faculty of Science of Tunis, University of Tunis El Manar &amp; CRISTAL Lab. ENSI, University of Manouba</affiliation>
+            <affiliation>University of Tunis El Manar &amp; CRISTAL Lab. ENSI, University of Manouba</affiliation>
             <country>Tunisia</country>
             <presenter>0</presenter>
           </author>
@@ -7290,7 +7290,7 @@ advantage of memristors and the good scalability, and radiation hardness of spin
               <surname>Alirezaee</surname>
             </name>
             <id>132644</id>
-            <affiliation>University of windsor</affiliation>
+            <affiliation>University of Windsor</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -7323,7 +7323,7 @@ advantage of memristors and the good scalability, and radiation hardness of spin
               <surname>Zheng</surname>
             </name>
             <id>1361076</id>
-            <affiliation>Insitute of Automation, Chinese Academy of Sciences</affiliation>
+            <affiliation>Chinese Academy of Sciences</affiliation>
             <country>P.R. China</country>
             <presenter>0</presenter>
           </author>
@@ -7334,7 +7334,7 @@ advantage of memristors and the good scalability, and radiation hardness of spin
               <surname>Wang</surname>
             </name>
             <id>1361080</id>
-            <affiliation>Insitute of Automation, Chinese Academy of Sciences</affiliation>
+            <affiliation>Chinese Academy of Sciences</affiliation>
             <country>P.R. China</country>
             <presenter>0</presenter>
           </author>
@@ -7345,7 +7345,7 @@ advantage of memristors and the good scalability, and radiation hardness of spin
               <surname>Li</surname>
             </name>
             <id>1361081</id>
-            <affiliation>Insitute of Automation, Chinese Academy of Sciences</affiliation>
+            <affiliation>Chinese Academy of Sciences</affiliation>
             <country>P.R. China</country>
             <presenter>0</presenter>
           </author>
@@ -7407,7 +7407,7 @@ advantage of memristors and the good scalability, and radiation hardness of spin
           <author>
             <name>
               <givenname>Svetlana</givenname>
-              <mi>N</mi>
+              <mi>N.</mi>
               <surname>Yanushkevich</surname>
             </name>
             <id>274712</id>
@@ -7434,7 +7434,7 @@ advantage of memristors and the good scalability, and radiation hardness of spin
               <surname>Klemes</surname>
             </name>
             <id>577851</id>
-            <affiliation>Huawei Canada R&amp;D Center</affiliation>
+            <affiliation>Huawei Technologies Co. Ltd.</affiliation>
             <country>Canada</country>
             <presenter>1</presenter>
           </author>
@@ -7445,7 +7445,7 @@ advantage of memristors and the good scalability, and radiation hardness of spin
               <surname>Boutayeb</surname>
             </name>
             <id>1368019</id>
-            <affiliation>Huawei Canada R&amp;D Center</affiliation>
+            <affiliation>Huawei Technologies Co. Ltd.</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -7456,7 +7456,7 @@ advantage of memristors and the good scalability, and radiation hardness of spin
               <surname>Hyjazie</surname>
             </name>
             <id>1368020</id>
-            <affiliation>Huawei Canada R&amp;D Center</affiliation>
+            <affiliation>Huawei Technologies Co. Ltd.</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -7504,7 +7504,7 @@ advantage of memristors and the good scalability, and radiation hardness of spin
               <surname>Leung</surname>
             </name>
             <id>3003</id>
-            <affiliation>The University of British Columbia</affiliation>
+            <affiliation>University of British Columbia</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -7515,7 +7515,7 @@ advantage of memristors and the good scalability, and radiation hardness of spin
               <surname>Chow</surname>
             </name>
             <id>1376969</id>
-            <affiliation>Unversity of British Columbia</affiliation>
+            <affiliation>University of British Columbia</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -7537,7 +7537,7 @@ advantage of memristors and the good scalability, and radiation hardness of spin
               <surname>Crawford</surname>
             </name>
             <id>681123</id>
-            <affiliation>UVic</affiliation>
+            <affiliation>Universtiy of Victoria</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -7621,7 +7621,7 @@ advantage of memristors and the good scalability, and radiation hardness of spin
           <author>
             <name>
               <givenname>David</givenname>
-              <mi>P</mi>
+              <mi>P.</mi>
               <surname>Chassin</surname>
             </name>
             <id>482299</id>
@@ -7680,7 +7680,7 @@ advantage of memristors and the good scalability, and radiation hardness of spin
               <surname>Crawford</surname>
             </name>
             <id>681123</id>
-            <affiliation>UVic</affiliation>
+            <affiliation>Universtiy of Victoria</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -7702,7 +7702,7 @@ advantage of memristors and the good scalability, and radiation hardness of spin
               <surname>Kaviani</surname>
             </name>
             <id>1377505</id>
-            <affiliation>Unversity of British Columbia</affiliation>
+            <affiliation>University of British Columbia</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -7713,7 +7713,7 @@ advantage of memristors and the good scalability, and radiation hardness of spin
               <surname>O'Brien</surname>
             </name>
             <id>1377503</id>
-            <affiliation>Unversity of British Columbia</affiliation>
+            <affiliation>University of British Columbia</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -7724,7 +7724,7 @@ advantage of memristors and the good scalability, and radiation hardness of spin
               <surname>Van Brummelen</surname>
             </name>
             <id>1377776</id>
-            <affiliation>Unversity of British Columbia</affiliation>
+            <affiliation>University of British Columbia</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -7735,7 +7735,7 @@ advantage of memristors and the good scalability, and radiation hardness of spin
               <surname>Najjaran</surname>
             </name>
             <id>700309</id>
-            <affiliation>The University of British Columbia</affiliation>
+            <affiliation>University of British Columbia</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -8036,7 +8036,7 @@ advantage of memristors and the good scalability, and radiation hardness of spin
           <author>
             <name>
               <givenname>Kenneth</givenname>
-              <mi>B</mi>
+              <mi>B.</mi>
               <surname>Kent</surname>
             </name>
             <id>105751</id>
@@ -8091,7 +8091,7 @@ advantage of memristors and the good scalability, and radiation hardness of spin
           <author>
             <name>
               <givenname>Kenneth</givenname>
-              <mi>B</mi>
+              <mi>B.</mi>
               <surname>Kent</surname>
             </name>
             <id>105751</id>
@@ -8190,7 +8190,7 @@ advantage of memristors and the good scalability, and radiation hardness of spin
           <author>
             <name>
               <givenname>Kenneth</givenname>
-              <mi>B</mi>
+              <mi>B.</mi>
               <surname>Kent</surname>
             </name>
             <id>105751</id>
@@ -8245,7 +8245,7 @@ advantage of memristors and the good scalability, and radiation hardness of spin
           <author>
             <name>
               <givenname>Kenneth</givenname>
-              <mi>B</mi>
+              <mi>B.</mi>
               <surname>Kent</surname>
             </name>
             <id>105751</id>
@@ -8321,7 +8321,7 @@ Further improvements on classification features are necessary to adapt the propo
           <author>
             <name>
               <givenname>Bárbara</givenname>
-              <mi>L</mi>
+              <mi>L.</mi>
               <surname>Oliveira</surname>
             </name>
             <id>835717</id>
@@ -8402,7 +8402,7 @@ Further improvements on classification features are necessary to adapt the propo
               <surname>Kheradmand</surname>
             </name>
             <id>1370890</id>
-            <affiliation>SFU</affiliation>
+            <affiliation>Simon Fraser University</affiliation>
             <country>Canada</country>
             <presenter>1</presenter>
           </author>
@@ -8446,7 +8446,7 @@ Further improvements on classification features are necessary to adapt the propo
               <surname>Shariat</surname>
             </name>
             <id>226322</id>
-            <affiliation>Queen`s University</affiliation>
+            <affiliation>Queen's University</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -8457,7 +8457,7 @@ Further improvements on classification features are necessary to adapt the propo
               <surname>Gazor</surname>
             </name>
             <id>997037</id>
-            <affiliation>Queens University</affiliation>
+            <affiliation>Queen's University</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -8583,9 +8583,9 @@ ISO which are published at their official website</abstract>
         <authors>
           <author>
             <name>
-              <givenname>Mohamed</givenname>
-              <mi>T</mi>
-              <surname>Abdussalam</surname>
+              <givenname>Abdussalam</givenname>
+              <mi>T.</mi>
+              <surname>Mohamed</surname>
             </name>
             <id>1368101</id>
             <affiliation>Dalhousie University</affiliation>
@@ -8654,7 +8654,7 @@ ISO which are published at their official website</abstract>
               <surname>Hasan</surname>
             </name>
             <id>921589</id>
-            <affiliation>Dalhousie University &amp; Halifax, Nova Scotia</affiliation>
+            <affiliation>Dalhousie University</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -8711,7 +8711,7 @@ set of models.</abstract>
               <surname>Khreich</surname>
             </name>
             <id>290221</id>
-            <affiliation>École de Technologie Supérieure (ETS)</affiliation>
+            <affiliation>École de Technologie Supérieure</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -8838,7 +8838,7 @@ power system operation.</abstract>
               <surname>Hasan</surname>
             </name>
             <id>921589</id>
-            <affiliation>Dalhousie University &amp; Halifax, Nova Scotia</affiliation>
+            <affiliation>Dalhousie University</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -8882,7 +8882,7 @@ power system operation.</abstract>
               <surname>Atighechi</surname>
             </name>
             <id>576285</id>
-            <affiliation>BC Hydro &amp; BC Hydro</affiliation>
+            <affiliation>BC Hydro</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -8904,7 +8904,7 @@ power system operation.</abstract>
               <surname>Ebrahimi</surname>
             </name>
             <id>1361360</id>
-            <affiliation>The University of British Columbia</affiliation>
+            <affiliation>University of British Columbia</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -9116,7 +9116,7 @@ power system operation.</abstract>
               <surname>Rao</surname>
             </name>
             <id>91064</id>
-            <affiliation>The University of Western Ontario</affiliation>
+            <affiliation>University of Western Ontario</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -9161,7 +9161,7 @@ power system operation.</abstract>
             </name>
             <id>427822</id>
             <affiliation>Virginia Tech</affiliation>
-            <country>Egypt</country>
+            <country>USA</country>
             <presenter>0</presenter>
           </author>
         </authors>
@@ -9182,7 +9182,7 @@ power system operation.</abstract>
               <surname>Alsharef</surname>
             </name>
             <id>1187213</id>
-            <affiliation>Westeren University</affiliation>
+            <affiliation>University of Western Ontario</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -9193,7 +9193,7 @@ power system operation.</abstract>
               <surname>Rao</surname>
             </name>
             <id>91064</id>
-            <affiliation>The University of Western Ontario</affiliation>
+            <affiliation>University of Western Ontario</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -9226,7 +9226,7 @@ power system operation.</abstract>
               <surname>Noorwali</surname>
             </name>
             <id>1231753</id>
-            <affiliation>The University of Western Ontario</affiliation>
+            <affiliation>University of Western Ontario</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -9237,7 +9237,7 @@ power system operation.</abstract>
               <surname>Rao</surname>
             </name>
             <id>91064</id>
-            <affiliation>The University of Western Ontario</affiliation>
+            <affiliation>University of Western Ontario</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -9541,7 +9541,7 @@ power system operation.</abstract>
               <surname>Singh</surname>
             </name>
             <id>1367510</id>
-            <affiliation>OPAL-RT Technologies Pvt Ltd</affiliation>
+            <affiliation>OPAL-RT Technologies Pvt. Ltd.</affiliation>
             <country>India</country>
             <presenter>0</presenter>
           </author>
@@ -9764,7 +9764,7 @@ power system operation.</abstract>
               <surname>Hains</surname>
             </name>
             <id>261341</id>
-            <affiliation>Huawei Technologies</affiliation>
+            <affiliation>Huawei Technologies Co. Ltd.</affiliation>
             <country>France</country>
             <presenter>1</presenter>
           </author>
@@ -9775,7 +9775,7 @@ power system operation.</abstract>
               <surname>Dominguez</surname>
             </name>
             <id>1367852</id>
-            <affiliation>Huawei Technologies</affiliation>
+            <affiliation>Huawei Technologies Co. Ltd.</affiliation>
             <country>France</country>
             <presenter>0</presenter>
           </author>
@@ -9808,7 +9808,7 @@ power system operation.</abstract>
               <surname>Kawakami</surname>
             </name>
             <id>1360916</id>
-            <affiliation>KDDI R&amp;D Labs</affiliation>
+            <affiliation>KDDI R&amp;D Laboratories Inc.</affiliation>
             <country>Japan</country>
             <presenter>0</presenter>
           </author>
@@ -9819,7 +9819,7 @@ power system operation.</abstract>
               <surname>Tachibana</surname>
             </name>
             <id>183481</id>
-            <affiliation>KDDI R&amp;D Laboratories</affiliation>
+            <affiliation>KDDI R&amp;D Laboratories Inc.</affiliation>
             <country>Japan</country>
             <presenter>0</presenter>
           </author>
@@ -10094,7 +10094,7 @@ privacy of both the client and the server.</abstract>
               <surname>Gebali</surname>
             </name>
             <id>93952</id>
-            <affiliation>The University of Victoria</affiliation>
+            <affiliation>University of Victoria</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -10175,7 +10175,7 @@ privacy of both the client and the server.</abstract>
               <surname>Dastgheib</surname>
             </name>
             <id>1367986</id>
-            <affiliation>Biomedical Engineering Program, University of Manitoba</affiliation>
+            <affiliation>University of Manitoba</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -10252,7 +10252,7 @@ privacy of both the client and the server.</abstract>
               <surname>Campi</surname>
             </name>
             <id>1349294</id>
-            <affiliation>Simon Fraser Uiversity</affiliation>
+            <affiliation>Simon Fraser University</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -10263,7 +10263,7 @@ privacy of both the client and the server.</abstract>
               <surname>Menon</surname>
             </name>
             <id>273161</id>
-            <affiliation>SFU</affiliation>
+            <affiliation>Simon Fraser University</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -10475,7 +10475,7 @@ privacy of both the client and the server.</abstract>
               <surname>Ebrahimi</surname>
             </name>
             <id>1361360</id>
-            <affiliation>The University of British Columbia</affiliation>
+            <affiliation>University of British Columbia</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -10508,7 +10508,7 @@ privacy of both the client and the server.</abstract>
               <surname>Wang</surname>
             </name>
             <id>1367951</id>
-            <affiliation>The University of British Columbia</affiliation>
+            <affiliation>University of British Columbia</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -10786,7 +10786,7 @@ privacy of both the client and the server.</abstract>
               <surname>Akhavan</surname>
             </name>
             <id>1367964</id>
-            <affiliation>University of Waterloo &amp; University of Waterloo</affiliation>
+            <affiliation>University of Waterloo</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -11112,7 +11112,7 @@ privacy of both the client and the server.</abstract>
               <surname>Fathy</surname>
             </name>
             <id>107646</id>
-            <affiliation>Iran University of Sci &amp; Tech</affiliation>
+            <affiliation>Iran University of Science &amp; Technology</affiliation>
             <country>Iran</country>
             <presenter>0</presenter>
           </author>
@@ -11178,7 +11178,7 @@ privacy of both the client and the server.</abstract>
               <surname>Bartlett</surname>
             </name>
             <id>1159705</id>
-            <affiliation>W. T. Fast Inc</affiliation>
+            <affiliation>W. T. Fast Inc.</affiliation>
             <country>France</country>
             <presenter>0</presenter>
           </author>
@@ -11189,7 +11189,7 @@ privacy of both the client and the server.</abstract>
               <surname>Needham</surname>
             </name>
             <id>1159707</id>
-            <affiliation>W. T. Fast Inc</affiliation>
+            <affiliation>W. T. Fast Inc.</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -11448,7 +11448,7 @@ This research is a small part of a gamification/real-time solution and state tho
               <surname>Crawford</surname>
             </name>
             <id>681123</id>
-            <affiliation>UVic</affiliation>
+            <affiliation>Universtiy of Victoria</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -11466,7 +11466,7 @@ This research is a small part of a gamification/real-time solution and state tho
           <author>
             <name>
               <givenname>David</givenname>
-              <mi>P</mi>
+              <mi>P.</mi>
               <surname>Chassin</surname>
             </name>
             <id>482299</id>
@@ -11503,7 +11503,7 @@ This research is a small part of a gamification/real-time solution and state tho
               <surname>Herrera</surname>
             </name>
             <id>1374504</id>
-            <affiliation>The University of British Columbia</affiliation>
+            <affiliation>University of British Columbia</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -11525,7 +11525,7 @@ This research is a small part of a gamification/real-time solution and state tho
               <surname>Mérida</surname>
             </name>
             <id>1377499</id>
-            <affiliation>Unversity of British Columbia</affiliation>
+            <affiliation>University of British Columbia</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -11551,7 +11551,7 @@ This research is a small part of a gamification/real-time solution and state tho
           <mi/>
           <surname>Pai</surname>
         </name>
-        <affiliation>Manipal Institute of Technology, Manipal University</affiliation>
+        <affiliation>Manipal Institute of Technology</affiliation>
         <country>India</country>
       </chair>
     </chairs>
@@ -11572,7 +11572,7 @@ This research is a small part of a gamification/real-time solution and state tho
               <surname>Ezefibe</surname>
             </name>
             <id>1365272</id>
-            <affiliation>Concordia University, Montreal</affiliation>
+            <affiliation>Concordia University</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -11715,7 +11715,7 @@ This research is a small part of a gamification/real-time solution and state tho
               <surname>Mallissery</surname>
             </name>
             <id>465075</id>
-            <affiliation>Manipal Institute of Technology &amp; Manipal University, Manipal</affiliation>
+            <affiliation>Manipal Institute of Technology &amp; Manipal University</affiliation>
             <country>India</country>
             <presenter>0</presenter>
           </author>
@@ -11737,7 +11737,7 @@ This research is a small part of a gamification/real-time solution and state tho
               <surname>Pai</surname>
             </name>
             <id>317185</id>
-            <affiliation>Manipal Institute of Technology, Manipal University &amp; Innovation Centre</affiliation>
+            <affiliation>Manipal Institute of Technology &amp; Manipal University</affiliation>
             <country>India</country>
             <presenter>1</presenter>
           </author>
@@ -11807,7 +11807,7 @@ This research is a small part of a gamification/real-time solution and state tho
               <surname>Hassan</surname>
             </name>
             <id>1303063</id>
-            <affiliation>Faculty of Computers and Information</affiliation>
+            <affiliation>Cairo University</affiliation>
             <country>Egypt</country>
             <presenter>0</presenter>
           </author>
@@ -11881,7 +11881,7 @@ This research is a small part of a gamification/real-time solution and state tho
           <author>
             <name>
               <givenname>Andrew</givenname>
-              <mi>J</mi>
+              <mi>J.</mi>
               <surname>Maier</surname>
             </name>
             <id>1367383</id>
@@ -11925,7 +11925,7 @@ This research is a small part of a gamification/real-time solution and state tho
           <author>
             <name>
               <givenname>Farid</givenname>
-              <mi>N</mi>
+              <mi>N.</mi>
               <surname>Najm</surname>
             </name>
             <id>1367797</id>
@@ -12044,7 +12044,7 @@ This research is a small part of a gamification/real-time solution and state tho
               <surname>Mahrous</surname>
             </name>
             <id>759507</id>
-            <affiliation>UBC</affiliation>
+            <affiliation>University of British Columbia</affiliation>
             <country>Canada</country>
             <presenter>1</presenter>
           </author>
@@ -12088,7 +12088,7 @@ This research is a small part of a gamification/real-time solution and state tho
               <surname>Menon</surname>
             </name>
             <id>273161</id>
-            <affiliation>SFU</affiliation>
+            <affiliation>Simon Fraser University</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -12263,7 +12263,7 @@ This research is a small part of a gamification/real-time solution and state tho
           <author>
             <name>
               <givenname>Mario</givenname>
-              <mi>R</mi>
+              <mi>R.</mi>
               <surname>Arbulú</surname>
             </name>
             <id>1367697</id>
@@ -12388,7 +12388,7 @@ This research is a small part of a gamification/real-time solution and state tho
               <surname>Taheri</surname>
             </name>
             <id>1232769</id>
-            <affiliation>École de Technologie Stupérieure (ÉTS)</affiliation>
+            <affiliation>École de Technologie Stupérieure</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -12740,7 +12740,7 @@ other stages of anaesthesia as well.</abstract>
               <surname>Shariat</surname>
             </name>
             <id>226322</id>
-            <affiliation>Queen`s University</affiliation>
+            <affiliation>Queen's University</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -12751,7 +12751,7 @@ other stages of anaesthesia as well.</abstract>
               <surname>Gazor</surname>
             </name>
             <id>997037</id>
-            <affiliation>Queens University</affiliation>
+            <affiliation>Queen's University</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -12784,7 +12784,7 @@ other stages of anaesthesia as well.</abstract>
               <surname>Shariat</surname>
             </name>
             <id>226322</id>
-            <affiliation>Queen`s University</affiliation>
+            <affiliation>Queen's University</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -12795,7 +12795,7 @@ other stages of anaesthesia as well.</abstract>
               <surname>Gazor</surname>
             </name>
             <id>997037</id>
-            <affiliation>Queens University</affiliation>
+            <affiliation>Queen's University</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -12839,7 +12839,7 @@ other stages of anaesthesia as well.</abstract>
               <surname>Menon</surname>
             </name>
             <id>273161</id>
-            <affiliation>SFU</affiliation>
+            <affiliation>Simon Fraser University</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -12974,7 +12974,7 @@ other stages of anaesthesia as well.</abstract>
               <surname>Ebrahimi</surname>
             </name>
             <id>1361360</id>
-            <affiliation>The University of British Columbia</affiliation>
+            <affiliation>University of British Columbia</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -12996,7 +12996,7 @@ other stages of anaesthesia as well.</abstract>
               <surname>Atighechi</surname>
             </name>
             <id>576285</id>
-            <affiliation>BC Hydro &amp; BC Hydro</affiliation>
+            <affiliation>BC Hydro</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -13084,7 +13084,7 @@ other stages of anaesthesia as well.</abstract>
               <surname>Ebrahimi</surname>
             </name>
             <id>1361360</id>
-            <affiliation>The University of British Columbia</affiliation>
+            <affiliation>University of British Columbia</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -13118,7 +13118,7 @@ other stages of anaesthesia as well.</abstract>
             </name>
             <id>298212</id>
             <affiliation>University of British Columbia</affiliation>
-            <country>United Kingdom</country>
+            <country>Canada</country>
             <presenter>0</presenter>
           </author>
         </authors>
@@ -13420,7 +13420,7 @@ Sparse regression methods have been proven effective in a wide range of signal p
               <surname>Koolagudi</surname>
             </name>
             <id>369969</id>
-            <affiliation>National Institute of Technology, Karnataka</affiliation>
+            <affiliation>National Institute of Technology Karnataka</affiliation>
             <country>India</country>
             <presenter>0</presenter>
           </author>
