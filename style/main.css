@@ -605,7 +605,7 @@ ul li {
   padding: 2px;
   text-align: center;
   vertical-align: middle;
-  border: solid 0.5px black;
+  border: solid 1px black;
 }
 
 .program-session td.c {
