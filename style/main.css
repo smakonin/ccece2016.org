@@ -606,6 +606,7 @@ ul li {
   text-align: center;
   vertical-align: middle;
   border: solid 1px black;
+  font-size: 0.8em;
 }
 
 .program-session td.c {
