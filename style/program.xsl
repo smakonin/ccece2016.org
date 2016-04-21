@@ -72,9 +72,9 @@
               <tr><td>10:15-10:45</td><td colspan="8" class="c">Health Break</td></tr>
               <tr><td>10:45-12:15</td><td class="is"><a href="#C1L-1">C1L-1</a></td><td class="cn"><a href="#C1L-2">C1L-2</a></td><td class="cs"><a href="#C1L-3">C1L-3</a></td><td class="be"><a href="#C1L-4">C1L-4</a></td><td class="pe"><a href="#C1L-5">C1L-5</a></td><td class="sp"><a href="#C1L-6">C1L-6</a></td><td>&#160;</td><td>&#160;</td></tr>
               <tr><td>12:15-13:30</td><td colspan="8" class="c">Lunch Break</td></tr>
-              <tr><td>13:30-15:00</td><td class="is"><a href="events.html#industry">Industry Forum</a></td><td>&#160;</td><td class="is"><a href="docs/WIEBrochure.pdf">WIE Forum</a></td><td class="be"><a href="#C2L-4">C2L-4</a></td><td class="pe"><a href="#C2L-5">C2L-5</a></td><td class="sp"><a href="#C2L-6">C2L-6</a></td><td>&#160;</td><td>&#160;</td></tr>
-              <tr><td>14:15-15:15</td><td colspan="8" class="c">Coffee/Tea Break</td></tr>
-              <tr><td>15:15-16:30</td><td class="is"><a href="events.html#industry">Industry Forum</a>, cont.</td><td>&#160;</td><td class="is"><a href="docs/WIEBrochure.pdf">WIE Forum</a>, cont.</td><td>&#160;</td><td>&#160;</td><td>&#160;</td><td>&#160;</td><td>&#160;</td></tr>
+              <tr><td>13:30-15:00</td><td class="is" rowspan="2"><a href="events.html#industry">Industry Forum</a></td><td>&#160;</td><td class="is" rowspan="2"><a href="docs/WIEBrochure.pdf">WIE Forum</a></td><td class="be"><a href="#C2L-4">C2L-4</a></td><td class="pe"><a href="#C2L-5">C2L-5</a></td><td class="sp"><a href="#C2L-6">C2L-6</a></td><td>&#160;</td><td>&#160;</td></tr>
+              <!--<tr><td>14:15-15:15</td><td colspan="8" class="c">Coffee/Tea Break</td></tr>-->
+              <tr><td>15:15-16:30</td><td>&#160;</td><td>&#160;</td><td>&#160;</td><td>&#160;</td><td>&#160;</td><td>&#160;</td></tr>
               <tr><td>16:30-18:00</td><td colspan="8" class="c">Conference Closing &amp; Farewell Cocktail Reception</td></tr>
             </table>
           </div>
