@@ -11,8 +11,18 @@
     <range>10:45-12:15</range>
     <starttime>2016-05-16T10:45:00-07:00</starttime>
     <endtime>2016-05-16T12:15:00-07:00</endtime>
-    <room></room>
-    <chairs/>
+    <room>Pinnacle I</room>
+    <chairs>
+      <chair>
+        <name>
+          <givenname>David</givenname>
+          <mi/>
+          <surname>Hiemstra</surname>
+        </name>
+        <affiliation>MDA</affiliation>
+        <country>Canada</country>
+      </chair>
+    </chairs>
     <papers>
       <paper>
         <starttime>10:45</starttime>
@@ -291,7 +301,7 @@
     <range>10:45-12:15</range>
     <starttime>2016-05-16T10:45:00-07:00</starttime>
     <endtime>2016-05-16T12:15:00-07:00</endtime>
-    <room></room>
+    <room>Pinnacle II</room>
     <chairs>
       <chair>
         <name>
@@ -591,15 +601,15 @@
     <range>10:45-12:15</range>
     <starttime>2016-05-16T10:45:00-07:00</starttime>
     <endtime>2016-05-16T12:15:00-07:00</endtime>
-    <room></room>
+    <room>Pinnacle III</room>
     <chairs>
       <chair>
         <name>
-          <givenname>Daniel</givenname>
-          <mi/>
-          <surname>Lee</surname>
+          <givenname>Xavier</givenname>
+          <mi>N.</mi>
+          <surname>Fernando</surname>
         </name>
-        <affiliation>Simon Fraser University</affiliation>
+        <affiliation>Ryerson University</affiliation>
         <country>Canada</country>
       </chair>
     </chairs>
@@ -695,41 +705,8 @@
       <paper>
         <starttime>11:21</starttime>
         <endtime>11:39</endtime>
-        <paperid>1570237818</paperid>
-        <sessionid>A1L-3.3</sessionid>
-        <papertitle>On the Imperfection of Channel Estimation, Relay's Forwarding Policy and Destination's Knowledge of Signal Presence</papertitle>
-        <trackname>Communications and Networks</trackname>
-        <abstract>In this paper, we analyze two different decode-and-forward (DF) relay-assisted communication system models, which display different levels of practicality and represent large classes of DF systems in the literature. We spell out delineating aspects of the two models and rigorously show inequality among their symbol error probabilities (SEPs). Both system models assume imperfect channel side information at receivers and maximum ratio combining (MRC) at the destination node. </abstract>
-        <authors>
-          <author>
-            <name>
-              <givenname>Ali</givenname>
-              <mi/>
-              <surname>Zarei Ghanavati</surname>
-            </name>
-            <id>808671</id>
-            <affiliation>Simon Fraser University</affiliation>
-            <country>Canada</country>
-            <presenter>0</presenter>
-          </author>
-          <author>
-            <name>
-              <givenname>Daniel</givenname>
-              <mi/>
-              <surname>Lee</surname>
-            </name>
-            <id>166528</id>
-            <affiliation>Simon Fraser University</affiliation>
-            <country>Canada</country>
-            <presenter>1</presenter>
-          </author>
-        </authors>
-      </paper>
-      <paper>
-        <starttime>11:39</starttime>
-        <endtime>11:57</endtime>
         <paperid>1570241058</paperid>
-        <sessionid>A1L-3.4</sessionid>
+        <sessionid>A1L-3.3</sessionid>
         <papertitle>Transmitter Precoding to Cancel Inter-Relay Interference in AF Systems with Successive Transmissions</papertitle>
         <trackname>Communications and Networks</trackname>
         <abstract>This paper presents an inter-relay interference (IRI) cancellation scheme in amplify-and-forward (AF) cellular-type networks with successive downlink forwarding. In these half-duplex alternate relaying systems with two hops, the wireless medium in both hops is always utilized through the simultaneous transmissions of the base station (BS) and one of the relays which in turn causes IRI. In this work, the processing to mitigate IRI is performed exclusively at the BS using channel state information (CSI) between the BS and the multiple relays supporting corresponding receivers. The proposed linear precoding exploits the principles of signal alignment at the BS and considers recursive characteristics of IRI. The scheme performance is affected by the noise accumulation which is controlled in this paper by (i) scheduling relays as to benefit from spatial attenuation of signals and (ii) periodically re-initializing BS transmissions where some of the time slots are not utilized for the BS transmissions. Simulation results show the ability of the new scheme to fully cancel IRI as well as demonstrate the performance trade-offs between the bit error rate (BER) improvements and the loss in throughput efficiency due to flushing.</abstract>
@@ -759,10 +736,10 @@
         </authors>
       </paper>
       <paper>
-        <starttime>11:57</starttime>
-        <endtime>12:15</endtime>
+        <starttime>11:39</starttime>
+        <endtime>11:57</endtime>
         <paperid>1570233811</paperid>
-        <sessionid>A1L-3.5</sessionid>
+        <sessionid>A1L-3.4</sessionid>
         <papertitle>Adaptive Distributed Compression Technique Utilizing Intermediate Network Nodes</papertitle>
         <trackname>Communications and Networks</trackname>
         <abstract>Data networks are experiencing an unprecedented growth in traffic resulting in a multitude of challenges including high network congestion, latency, and packet loss rates. These challenges greatly affect the performance of the network and have a drastic impact on the Quality of Service (QoS) for various applications. In order to reduce network congestion and in turn, maintain the desired QoS, an adaptive and distributed compression/decompression scheme is proposed. The proposed scheme performs the compression and decompression processes within the queues of the intermediate routing nodes of a network. The payload of a packet is compressed based on the packet queuing time. The average expected queuing time of packets is determined instantaneously within the intermediate nodes of a network by employing the Pollaczek Khinchin (PK) equation. Using Network Simulator 3 (NS3), the proposed scheme was simulated under different network conditions and compared with non-compressed transmission sessions of different flow rates. The simulation results show a dramatic improvement in network performance. More specifically, the number of lost packets and one way latency are reduced by at least 22.50% and 18%, respectively.</abstract>
@@ -802,6 +779,39 @@
           </author>
         </authors>
       </paper>
+      <paper>
+        <starttime>11:57</starttime>
+        <endtime>12:15</endtime>
+        <paperid>1570237818</paperid>
+        <sessionid>A1L-3.5</sessionid>
+        <papertitle>On the Imperfection of Channel Estimation, Relay's Forwarding Policy and Destination's Knowledge of Signal Presence</papertitle>
+        <trackname>Communications and Networks</trackname>
+        <abstract>In this paper, we analyze two different decode-and-forward (DF) relay-assisted communication system models, which display different levels of practicality and represent large classes of DF systems in the literature. We spell out delineating aspects of the two models and rigorously show inequality among their symbol error probabilities (SEPs). Both system models assume imperfect channel side information at receivers and maximum ratio combining (MRC) at the destination node. </abstract>
+        <authors>
+          <author>
+            <name>
+              <givenname>Ali</givenname>
+              <mi/>
+              <surname>Zarei Ghanavati</surname>
+            </name>
+            <id>808671</id>
+            <affiliation>Simon Fraser University</affiliation>
+            <country>Canada</country>
+            <presenter>0</presenter>
+          </author>
+          <author>
+            <name>
+              <givenname>Daniel</givenname>
+              <mi/>
+              <surname>Lee</surname>
+            </name>
+            <id>166528</id>
+            <affiliation>Simon Fraser University</affiliation>
+            <country>Canada</country>
+            <presenter>1</presenter>
+          </author>
+        </authors>
+      </paper>
     </papers>
   </session>
   <session>
@@ -814,8 +824,18 @@
     <range>10:45-12:15</range>
     <starttime>2016-05-16T10:45:00-07:00</starttime>
     <endtime>2016-05-16T12:15:00-07:00</endtime>
-    <room></room>
-    <chairs/>
+    <room>Shaugnessy I</room>
+    <chairs>
+      <chair>
+        <name>
+          <givenname>Ivan</givenname>
+          <mi>V.</mi>
+          <surname>Bajic</surname>
+        </name>
+        <affiliation>Simon Fraser University</affiliation>
+        <country>Canada</country>
+      </chair>
+    </chairs>
     <papers>
       <paper>
         <starttime>10:45</starttime>
@@ -1039,7 +1059,7 @@
     <range>10:45-12:15</range>
     <starttime>2016-05-16T10:45:00-07:00</starttime>
     <endtime>2016-05-16T12:15:00-07:00</endtime>
-    <room></room>
+    <room>Shaugnessy II</room>
     <chairs>
       <chair>
         <name>
@@ -1306,7 +1326,7 @@ A 3D mapping algorithm is proposed that enables the fast moving quadrotor to mak
     <range>10:45-12:15</range>
     <starttime>2016-05-16T10:45:00-07:00</starttime>
     <endtime>2016-05-16T12:15:00-07:00</endtime>
-    <room></room>
+    <room>Dundarave</room>
     <chairs>
       <chair>
         <name>
@@ -1562,7 +1582,7 @@ A 3D mapping algorithm is proposed that enables the fast moving quadrotor to mak
     <range>10:45-12:15</range>
     <starttime>2016-05-16T10:45:00-07:00</starttime>
     <endtime>2016-05-16T12:15:00-07:00</endtime>
-    <room></room>
+    <room>Point Grey</room>
     <chairs>
       <chair>
         <name>
@@ -1763,7 +1783,7 @@ A 3D mapping algorithm is proposed that enables the fast moving quadrotor to mak
     <range>10:45-12:15</range>
     <starttime>2016-05-16T10:45:00-07:00</starttime>
     <endtime>2016-05-16T12:15:00-07:00</endtime>
-    <room></room>
+    <room>Point Grey</room>
     <chairs/>
     <papers>
       <paper>
@@ -1867,8 +1887,18 @@ A 3D mapping algorithm is proposed that enables the fast moving quadrotor to mak
     <range>13:30-15:00</range>
     <starttime>2016-05-16T13:30:00-07:00</starttime>
     <endtime>2016-05-16T15:00:00-07:00</endtime>
-    <room></room>
-    <chairs/>
+    <room>PInnacle I</room>
+    <chairs>
+      <chair>
+        <name>
+          <givenname>Nick</givenname>
+          <mi/>
+          <surname>Jaeger</surname>
+        </name>
+        <affiliation>University of British Columbia</affiliation>
+        <country>Canada</country>
+      </chair>
+    </chairs>
     <papers>
       <paper>
         <starttime>13:30</starttime>
@@ -2136,7 +2166,7 @@ A 3D mapping algorithm is proposed that enables the fast moving quadrotor to mak
     <range>13:30-15:00</range>
     <starttime>2016-05-16T13:30:00-07:00</starttime>
     <endtime>2016-05-16T15:00:00-07:00</endtime>
-    <room></room>
+    <room>Pinnacle II</room>
     <chairs>
       <chair>
         <name>
@@ -2381,7 +2411,7 @@ A 3D mapping algorithm is proposed that enables the fast moving quadrotor to mak
     <range>13:30-15:00</range>
     <starttime>2016-05-16T13:30:00-07:00</starttime>
     <endtime>2016-05-16T15:00:00-07:00</endtime>
-    <room></room>
+    <room>Pinnacle III</room>
     <chairs>
       <chair>
         <name>
@@ -2637,8 +2667,18 @@ A 3D mapping algorithm is proposed that enables the fast moving quadrotor to mak
     <range>13:30-15:00</range>
     <starttime>2016-05-16T13:30:00-07:00</starttime>
     <endtime>2016-05-16T15:00:00-07:00</endtime>
-    <room></room>
-    <chairs/>
+    <room>Shaugnessy I</room>
+    <chairs>
+      <chair>
+        <name>
+          <givenname>Ivan</givenname>
+          <mi>V.</mi>
+          <surname>Bajic</surname>
+        </name>
+        <affiliation>Simon Fraser University</affiliation>
+        <country>Canada</country>
+      </chair>
+    </chairs>
     <papers>
       <paper>
         <starttime>13:30</starttime>
@@ -2852,7 +2892,7 @@ A 3D mapping algorithm is proposed that enables the fast moving quadrotor to mak
     <range>13:30-15:00</range>
     <starttime>2016-05-16T13:30:00-07:00</starttime>
     <endtime>2016-05-16T15:00:00-07:00</endtime>
-    <room></room>
+    <room>Shaugnessy II</room>
     <chairs>
       <chair>
         <name>
@@ -3040,7 +3080,7 @@ A 3D mapping algorithm is proposed that enables the fast moving quadrotor to mak
     <range>13:30-15:00</range>
     <starttime>2016-05-16T13:30:00-07:00</starttime>
     <endtime>2016-05-16T15:00:00-07:00</endtime>
-    <room></room>
+    <room>Dundarave</room>
     <chairs>
       <chair>
         <name>
@@ -3298,7 +3338,7 @@ Experimental results on real hardware models demonstrate two orders of magnitude
     <range>13:30-15:00</range>
     <starttime>2016-05-16T13:30:00-07:00</starttime>
     <endtime>2016-05-16T15:00:00-07:00</endtime>
-    <room></room>
+    <room>Point Grey</room>
     <chairs>
       <chair>
         <name>
@@ -3500,8 +3540,18 @@ Experimental results on real hardware models demonstrate two orders of magnitude
     <range>13:30-15:00</range>
     <starttime>2016-05-16T13:30:00-07:00</starttime>
     <endtime>2016-05-16T15:00:00-07:00</endtime>
-    <room></room>
-    <chairs/>
+    <room>Point Grey</room>
+    <chairs>
+      <chair>
+        <name>
+          <givenname>Bob</givenname>
+          <mi/>
+          <surname>Gill</surname>
+        </name>
+        <affiliation>British Columbia Institute of Technology</affiliation>
+        <country>Canada</country>
+      </chair>
+    </chairs>
     <papers>
       <paper>
         <starttime>13:30</starttime>
@@ -3614,7 +3664,7 @@ Experimental results on real hardware models demonstrate two orders of magnitude
     <range>15:30-17:00</range>
     <starttime>2016-05-16T15:30:00-07:00</starttime>
     <endtime>2016-05-16T17:00:00-07:00</endtime>
-    <room></room>
+    <room>PInnacle I</room>
     <chairs>
       <chair>
         <name>
@@ -3872,7 +3922,7 @@ Experimental results on real hardware models demonstrate two orders of magnitude
     <range>15:30-17:00</range>
     <starttime>2016-05-16T15:30:00-07:00</starttime>
     <endtime>2016-05-16T17:00:00-07:00</endtime>
-    <room></room>
+    <room>Pinnacle II</room>
     <chairs>
       <chair>
         <name>
@@ -4095,7 +4145,7 @@ Experimental results on real hardware models demonstrate two orders of magnitude
     <range>15:30-17:00</range>
     <starttime>2016-05-16T15:30:00-07:00</starttime>
     <endtime>2016-05-16T17:00:00-07:00</endtime>
-    <room></room>
+    <room>Pinnacle III</room>
     <chairs>
       <chair>
         <name>
@@ -4351,8 +4401,18 @@ Experimental results on real hardware models demonstrate two orders of magnitude
     <range>15:30-17:00</range>
     <starttime>2016-05-16T15:30:00-07:00</starttime>
     <endtime>2016-05-16T17:00:00-07:00</endtime>
-    <room></room>
-    <chairs/>
+    <room>Shaugnessy I</room>
+    <chairs>
+      <chair>
+        <name>
+          <givenname>Z. Jane</givenname>
+          <mi/>
+          <surname>Wang</surname>
+        </name>
+        <affiliation>University of British Columbia</affiliation>
+        <country>Canada</country>
+      </chair>
+    </chairs>
     <papers>
       <paper>
         <starttime>15:30</starttime>
@@ -4531,7 +4591,7 @@ Experimental results on real hardware models demonstrate two orders of magnitude
     <range>15:30-17:00</range>
     <starttime>2016-05-16T15:30:00-07:00</starttime>
     <endtime>2016-05-16T17:00:00-07:00</endtime>
-    <room></room>
+    <room>Shaugnessy II</room>
     <chairs>
       <chair>
         <name>
@@ -4775,7 +4835,7 @@ A robust model is sought for the identification of electroencephalographic (EEG)
     <range>15:30-17:00</range>
     <starttime>2016-05-16T15:30:00-07:00</starttime>
     <endtime>2016-05-16T17:00:00-07:00</endtime>
-    <room></room>
+    <room>Dundarave</room>
     <chairs>
       <chair>
         <name>
@@ -5021,7 +5081,7 @@ voltage of 2.5 V and with a supply voltage of 5.5 V. Since the design is based o
     <range>15:30-17:00</range>
     <starttime>2016-05-16T15:30:00-07:00</starttime>
     <endtime>2016-05-16T17:00:00-07:00</endtime>
-    <room></room>
+    <room>Point Grey</room>
     <chairs>
       <chair>
         <name>
@@ -5245,7 +5305,7 @@ voltage of 2.5 V and with a supply voltage of 5.5 V. Since the design is based o
     <range>15:30-17:00</range>
     <starttime>2016-05-16T15:30:00-07:00</starttime>
     <endtime>2016-05-16T17:00:00-07:00</endtime>
-    <room></room>
+    <room>Point Grey</room>
     <chairs/>
     <papers>
       <paper>
@@ -5536,8 +5596,18 @@ voltage of 2.5 V and with a supply voltage of 5.5 V. Since the design is based o
     <range>10:45-12:15</range>
     <starttime>2016-05-17T10:45:00-07:00</starttime>
     <endtime>2016-05-17T12:15:00-07:00</endtime>
-    <room></room>
-    <chairs/>
+    <room>PInnacle I</room>
+    <chairs>
+      <chair>
+        <name>
+          <givenname>Jagath</givenname>
+          <mi/>
+          <surname>Samarabandu</surname>
+        </name>
+        <affiliation>University of Western Ontario</affiliation>
+        <country>Canada</country>
+      </chair>
+    </chairs>
     <papers>
       <paper>
         <starttime>10:45</starttime>
@@ -5774,7 +5844,7 @@ techniques.</abstract>
     <range>10:45-12:15</range>
     <starttime>2016-05-17T10:45:00-07:00</starttime>
     <endtime>2016-05-17T12:15:00-07:00</endtime>
-    <room></room>
+    <room>Pinnacle II</room>
     <chairs>
       <chair>
         <name>
@@ -6030,7 +6100,7 @@ techniques.</abstract>
     <range>10:45-12:15</range>
     <starttime>2016-05-17T10:45:00-07:00</starttime>
     <endtime>2016-05-17T12:15:00-07:00</endtime>
-    <room></room>
+    <room>Pinnacle III</room>
     <chairs/>
     <papers>
       <paper>
@@ -6265,8 +6335,18 @@ techniques.</abstract>
     <range>10:45-12:15</range>
     <starttime>2016-05-17T10:45:00-07:00</starttime>
     <endtime>2016-05-17T12:15:00-07:00</endtime>
-    <room></room>
-    <chairs/>
+    <room>Shaugnessy I</room>
+    <chairs>
+      <chair>
+        <name>
+          <givenname>Mohamed</givenname>
+          <mi/>
+          <surname>Elgendi</surname>
+        </name>
+        <affiliation>University of British Columbia</affiliation>
+        <country>Canada</country>
+      </chair>
+    </chairs>
     <papers>
       <paper>
         <starttime>10:45</starttime>
@@ -6511,7 +6591,7 @@ techniques.</abstract>
     <range>10:45-12:15</range>
     <starttime>2016-05-17T10:45:00-07:00</starttime>
     <endtime>2016-05-17T12:15:00-07:00</endtime>
-    <room></room>
+    <room>Shaugnessy II</room>
     <chairs/>
     <papers>
       <paper>
@@ -6713,7 +6793,7 @@ techniques.</abstract>
     <range>10:45-12:15</range>
     <starttime>2016-05-17T10:45:00-07:00</starttime>
     <endtime>2016-05-17T12:15:00-07:00</endtime>
-    <room></room>
+    <room>Dundarave</room>
     <chairs>
       <chair>
         <name>
@@ -6991,7 +7071,7 @@ techniques.</abstract>
     <range>10:45-12:15</range>
     <starttime>2016-05-17T10:45:00-07:00</starttime>
     <endtime>2016-05-17T12:15:00-07:00</endtime>
-    <room></room>
+    <room>Point Grey</room>
     <chairs>
       <chair>
         <name>
@@ -7181,7 +7261,7 @@ techniques.</abstract>
     <range>10:45-12:15</range>
     <starttime>2016-05-17T10:45:00-07:00</starttime>
     <endtime>2016-05-17T12:15:00-07:00</endtime>
-    <room></room>
+    <room>Point Grey</room>
     <chairs/>
     <papers>
       <paper>
@@ -7474,8 +7554,18 @@ advantage of memristors and the good scalability, and radiation hardness of spin
     <range>13:30-15:00</range>
     <starttime>2016-05-17T13:30:00-07:00</starttime>
     <endtime>2016-05-17T15:00:00-07:00</endtime>
-    <room></room>
-    <chairs/>
+    <room>PInnacle I</room>
+    <chairs>
+      <chair>
+        <name>
+          <givenname>Omar</givenname>
+          <mi/>
+          <surname>Herrera</surname>
+        </name>
+        <affiliation>University of British Columbia</affiliation>
+        <country>Canada</country>
+      </chair>
+    </chairs>
     <papers>
       <paper>
         <starttime>13:30</starttime>
@@ -7764,7 +7854,7 @@ advantage of memristors and the good scalability, and radiation hardness of spin
     <range>13:30-15:00</range>
     <starttime>2016-05-17T13:30:00-07:00</starttime>
     <endtime>2016-05-17T15:00:00-07:00</endtime>
-    <room></room>
+    <room>Pinnacle II</room>
     <chairs>
       <chair>
         <name>
@@ -8009,7 +8099,7 @@ advantage of memristors and the good scalability, and radiation hardness of spin
     <range>13:30-15:00</range>
     <starttime>2016-05-17T13:30:00-07:00</starttime>
     <endtime>2016-05-17T15:00:00-07:00</endtime>
-    <room></room>
+    <room>Pinnacle III</room>
     <chairs/>
     <papers>
       <paper>
@@ -8289,8 +8379,18 @@ advantage of memristors and the good scalability, and radiation hardness of spin
     <range>13:30-15:00</range>
     <starttime>2016-05-17T13:30:00-07:00</starttime>
     <endtime>2016-05-17T15:00:00-07:00</endtime>
-    <room></room>
-    <chairs/>
+    <room>Shaugnessy I</room>
+    <chairs>
+      <chair>
+        <name>
+          <givenname>Mohamed</givenname>
+          <mi/>
+          <surname>Elgendi</surname>
+        </name>
+        <affiliation>University of British Columbia</affiliation>
+        <country>Canada</country>
+      </chair>
+    </chairs>
     <papers>
       <paper>
         <starttime>13:30</starttime>
@@ -8541,7 +8641,7 @@ Further improvements on classification features are necessary to adapt the propo
     <range>13:30-15:00</range>
     <starttime>2016-05-17T13:30:00-07:00</starttime>
     <endtime>2016-05-17T15:00:00-07:00</endtime>
-    <room></room>
+    <room>Shaugnessy II</room>
     <chairs>
       <chair>
         <name>
@@ -8809,7 +8909,7 @@ power system operation.</abstract>
     <range>13:30-15:00</range>
     <starttime>2016-05-17T13:30:00-07:00</starttime>
     <endtime>2016-05-17T15:00:00-07:00</endtime>
-    <room></room>
+    <room>Dundarave</room>
     <chairs>
       <chair>
         <name>
@@ -9076,7 +9176,7 @@ power system operation.</abstract>
     <range>13:30-15:00</range>
     <starttime>2016-05-17T13:30:00-07:00</starttime>
     <endtime>2016-05-17T15:00:00-07:00</endtime>
-    <room></room>
+    <room>Point Grey</room>
     <chairs>
       <chair>
         <name>
@@ -9247,7 +9347,7 @@ power system operation.</abstract>
   </session>
   <session>
     <code>B2P-2</code>
-    <sessiontitle>SP Theory, Methods, and Applications</sessiontitle>
+    <sessiontitle>Signal Processing Theory, Methods, and Applications</sessiontitle>
     <sessionsubtitle/>
     <sessionspeaker/>
     <sessiondetails/>
@@ -9255,8 +9355,18 @@ power system operation.</abstract>
     <range>13:30-15:00</range>
     <starttime>2016-05-17T13:30:00-07:00</starttime>
     <endtime>2016-05-17T15:00:00-07:00</endtime>
-    <room></room>
-    <chairs/>
+    <room>Point Grey</room>
+    <chairs>
+      <chair>
+        <name>
+          <givenname>Soosan</givenname>
+          <mi/>
+          <surname>Beheshti</surname>
+        </name>
+        <affiliation>Ryerson University</affiliation>
+        <country>Canada</country>
+      </chair>
+    </chairs>
     <papers>
       <paper>
         <starttime>13:30</starttime>
@@ -9457,7 +9567,7 @@ power system operation.</abstract>
     <range>15:30-17:00</range>
     <starttime>2016-05-17T15:30:00-07:00</starttime>
     <endtime>2016-05-17T17:00:00-07:00</endtime>
-    <room></room>
+    <room>PInnacle I</room>
     <chairs>
       <chair>
         <name>
@@ -9669,7 +9779,7 @@ power system operation.</abstract>
     <range>15:30-17:00</range>
     <starttime>2016-05-17T15:30:00-07:00</starttime>
     <endtime>2016-05-17T17:00:00-07:00</endtime>
-    <room></room>
+    <room>Pinnacle II</room>
     <chairs>
       <chair>
         <name>
@@ -9892,7 +10002,7 @@ power system operation.</abstract>
     <range>15:30-17:00</range>
     <starttime>2016-05-17T15:30:00-07:00</starttime>
     <endtime>2016-05-17T17:00:00-07:00</endtime>
-    <room></room>
+    <room>Pinnacle III</room>
     <chairs/>
     <papers>
       <paper>
@@ -10112,8 +10222,18 @@ privacy of both the client and the server.</abstract>
     <range>15:30-17:00</range>
     <starttime>2016-05-17T15:30:00-07:00</starttime>
     <endtime>2016-05-17T17:00:00-07:00</endtime>
-    <room></room>
-    <chairs/>
+    <room>Shaugnessy I</room>
+    <chairs>
+      <chair>
+        <name>
+          <givenname>Edmond</givenname>
+          <mi/>
+          <surname>Cretu</surname>
+        </name>
+        <affiliation>University of British Columbia</affiliation>
+        <country>Canada</country>
+      </chair>
+    </chairs>
     <papers>
       <paper>
         <starttime>15:30</starttime>
@@ -10369,7 +10489,7 @@ privacy of both the client and the server.</abstract>
     <range>15:30-17:00</range>
     <starttime>2016-05-17T15:30:00-07:00</starttime>
     <endtime>2016-05-17T17:00:00-07:00</endtime>
-    <room></room>
+    <room>Shaugnessy II</room>
     <chairs>
       <chair>
         <name>
@@ -10614,7 +10734,7 @@ privacy of both the client and the server.</abstract>
     <range>15:30-17:00</range>
     <starttime>2016-05-17T15:30:00-07:00</starttime>
     <endtime>2016-05-17T17:00:00-07:00</endtime>
-    <room></room>
+    <room>Dundarave</room>
     <chairs>
       <chair>
         <name>
@@ -10837,7 +10957,7 @@ privacy of both the client and the server.</abstract>
     <range>15:30-17:00</range>
     <starttime>2016-05-17T15:30:00-07:00</starttime>
     <endtime>2016-05-17T17:00:00-07:00</endtime>
-    <room></room>
+    <room>Point Grey</room>
     <chairs>
       <chair>
         <name>
@@ -10994,7 +11114,7 @@ privacy of both the client and the server.</abstract>
     <range>15:30-17:00</range>
     <starttime>2016-05-17T15:30:00-07:00</starttime>
     <endtime>2016-05-17T17:00:00-07:00</endtime>
-    <room></room>
+    <room>Point Grey</room>
     <chairs/>
     <papers>
       <paper>
@@ -11418,8 +11538,18 @@ This research is a small part of a gamification/real-time solution and state tho
     <range>10:45-12:15</range>
     <starttime>2016-05-18T10:45:00-07:00</starttime>
     <endtime>2016-05-18T12:15:00-07:00</endtime>
-    <room></room>
-    <chairs/>
+    <room>PInnacle I</room>
+    <chairs>
+      <chair>
+        <name>
+          <givenname>Omar</givenname>
+          <mi/>
+          <surname>Herrera</surname>
+        </name>
+        <affiliation>University of British Columbia</affiliation>
+        <country>Canada</country>
+      </chair>
+    </chairs>
     <papers>
       <paper>
         <starttime>10:45</starttime>
@@ -11543,7 +11673,7 @@ This research is a small part of a gamification/real-time solution and state tho
     <range>10:45-12:15</range>
     <starttime>2016-05-18T10:45:00-07:00</starttime>
     <endtime>2016-05-18T12:15:00-07:00</endtime>
-    <room></room>
+    <room>Pinnacle II</room>
     <chairs>
       <chair>
         <name>
@@ -11766,7 +11896,7 @@ This research is a small part of a gamification/real-time solution and state tho
     <range>10:45-12:15</range>
     <starttime>2016-05-18T10:45:00-07:00</starttime>
     <endtime>2016-05-18T12:15:00-07:00</endtime>
-    <room></room>
+    <room>Pinnacle III</room>
     <chairs/>
     <papers>
       <paper>
@@ -11947,8 +12077,18 @@ This research is a small part of a gamification/real-time solution and state tho
     <range>10:45-12:15</range>
     <starttime>2016-05-18T10:45:00-07:00</starttime>
     <endtime>2016-05-18T12:15:00-07:00</endtime>
-    <room></room>
-    <chairs/>
+    <room>Shaugnessy I</room>
+    <chairs>
+      <chair>
+        <name>
+          <givenname>Purang</givenname>
+          <mi/>
+          <surname>Abolmaesumi</surname>
+        </name>
+        <affiliation>University of British Columbia</affiliation>
+        <country>Canada</country>
+      </chair>
+    </chairs>
     <papers>
       <paper>
         <starttime>10:45</starttime>
@@ -12172,7 +12312,7 @@ This research is a small part of a gamification/real-time solution and state tho
     <range>10:45-12:15</range>
     <starttime>2016-05-18T10:45:00-07:00</starttime>
     <endtime>2016-05-18T12:15:00-07:00</endtime>
-    <room></room>
+    <room>Shaugnessy II</room>
     <chairs>
       <chair>
         <name>
@@ -12406,8 +12546,18 @@ This research is a small part of a gamification/real-time solution and state tho
     <range>10:45-12:15</range>
     <starttime>2016-05-18T10:45:00-07:00</starttime>
     <endtime>2016-05-18T12:15:00-07:00</endtime>
-    <room></room>
-    <chairs/>
+    <room>Dundarave</room>
+    <chairs>
+      <chair>
+        <name>
+          <givenname>Mohamed</givenname>
+          <mi/>
+          <surname>Elgendi</surname>
+        </name>
+        <affiliation>University of British Columbia</affiliation>
+        <country>Canada</country>
+      </chair>
+    </chairs>
     <papers>
       <paper>
         <starttime>10:45</starttime>
@@ -12674,8 +12824,18 @@ This research is a small part of a gamification/real-time solution and state tho
     <range>13:30-15:00</range>
     <starttime>2016-05-18T13:30:00-07:00</starttime>
     <endtime>2016-05-18T15:00:00-07:00</endtime>
-    <room></room>
-    <chairs/>
+    <room>Shaugnessy I</room>
+    <chairs>
+      <chair>
+        <name>
+          <givenname>Karen</givenname>
+          <mi>C</mi>
+          <surname>Cheung</surname>
+        </name>
+        <affiliation>University of British Columbia</affiliation>
+        <country>Canada</country>
+      </chair>
+    </chairs>
     <papers>
       <paper>
         <starttime>13:30</starttime>
@@ -12901,7 +13061,7 @@ other stages of anaesthesia as well.</abstract>
     <range>13:30-15:00</range>
     <starttime>2016-05-18T13:30:00-07:00</starttime>
     <endtime>2016-05-18T15:00:00-07:00</endtime>
-    <room></room>
+    <room>Shaugnessy II</room>
     <chairs>
       <chair>
         <name>
@@ -13201,8 +13361,18 @@ other stages of anaesthesia as well.</abstract>
     <range>13:30-15:00</range>
     <starttime>2016-05-18T13:30:00-07:00</starttime>
     <endtime>2016-05-18T15:00:00-07:00</endtime>
-    <room></room>
-    <chairs/>
+    <room>Dundarave</room>
+    <chairs>
+      <chair>
+        <name>
+          <givenname>Z. Jane</givenname>
+          <mi/>
+          <surname>Wang</surname>
+        </name>
+        <affiliation>University of British Columbia</affiliation>
+        <country>Canada</country>
+      </chair>
+    </chairs>
     <papers>
       <paper>
         <starttime>13:30</starttime>
