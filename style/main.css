@@ -615,6 +615,10 @@ ul li {
   border: solid 1px gray;
 }
 
+.program-session th span {
+  font-weight: 300;
+  display: inline-block;
+}
 
 .program-session td.c {
   padding-right: 11%;

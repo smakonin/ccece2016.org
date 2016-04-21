@@ -43,8 +43,8 @@
           <div class="program-session">
             <h3 class="section-title">Program at a Glance</h3>
             <table>
-              <tr><th>Time</th><th>Paper Track 1</th><th>Paper Track 2</th><th>Paper Track 3</th><th>Paper Track 4</th><th>Paper Track 5</th><th>Paper Track 6</th><th>Poster Track 1</th><th>Poster Track 2</th></tr>
               <tr><th colspan="9">Monday, May 16, 2016</th></tr>
+              <tr><th>Time</th><th>Paper Track 1<span>Room: Pinnacle I</span></th><th>Paper Track 2<span>Room: Pinnacle II</span></th><th>Paper Track 3<span>Room: Pinnacle III</span></th><th>Paper Track 4<span>Room: Shaugnessy I</span></th><th>Paper Track 5<span>Room: Shaugnessy II</span></th><th>Paper Track 6<span>Room: Dundarave</span></th><th>Poster Track 1<span>Room: Point Grey</span></th><th>Poster Track 2<span>Room: Point Grey</span></th></tr>
               <tr><td>08:00-08:30</td><td colspan="8" class="c">Opening Ceremony and Address by <a href="keynotes.html#wilkinson">Honourable Andrew Wilkinson, BC Minister of Advanced Education</a></td></tr>
               <tr><td>08:30-10:15</td><td colspan="8" class="c">Keynotes by <a href="keynotes.html#groene">Ralf Groene, Microsoft</a> &amp; <a href="keynotes.html#thompson">Alan Thompson, MDA</a></td></tr>
               <tr><td>10:15-10:45</td><td colspan="8" class="c">Health Break</td></tr>
@@ -55,6 +55,7 @@
               <tr><td>15:30-17:00</td><td class="pe"><a href="#A3L-1">A3L-1</a></td><td class="cn"><a href="#A3L-2">A3L-2</a></td><td class="cn"><a href="#A3L-3">A3L-3</a></td><td class="sp"><a href="#A3L-4">A3L-4</a></td><td class="cr"><a href="#A3L-5">A3L-5</a></td><td class="dc"><a href="#A3L-6">A3L-6</a></td><td class="pe"><a href="#A3P-1">A3P-1</a></td><td class="sp"><a href="#A3P-2">A3P-2</a></td></tr>
               <tr><td>18:30-21:00</td><td colspan="8" class="c">Awards Banquet</td></tr>
               <tr><th colspan="9">Tuesday, May 17, 2016</th></tr>
+              <tr><th>Time</th><th>Paper Track 1<span>Room: Pinnacle I</span></th><th>Paper Track 2<span>Room: Pinnacle II</span></th><th>Paper Track 3<span>Room: Pinnacle III</span></th><th>Paper Track 4<span>Room: Shaugnessy I</span></th><th>Paper Track 5<span>Room: Shaugnessy II</span></th><th>Paper Track 6<span>Room: Dundarave</span></th><th>Poster Track 1<span>Room: Point Grey</span></th><th>Poster Track 2<span>Room: Point Grey</span></th></tr>
               <tr><td>08:30-10:15</td><td colspan="8" class="c">Keynotes by <a href="keynotes.html#hilton">Jeremy Hilton, D-Wave</a> &amp; <a href="keynotes.html#morison">Kip Morison, BC Hydro</a></td></tr>
               <tr><td>10:15-10:45</td><td colspan="8" class="c">Health Break</td></tr>
               <tr><td>10:45-12:15</td><td class="is"><a href="#B1L-1">B1L-1</a></td><td class="cn"><a href="#B1L-2">B1L-2</a></td><td class="cs"><a href="#B1L-3">B1L-3</a></td><td class="sp"><a href="#B1L-4">B1L-4</a></td><td class="sp"><a href="#B1L-5">B1L-5</a></td><td class="pe"><a href="#B1L-6">B1L-6</a></td><td class="cn"><a href="#B1P-1">B1P-1</a></td><td class="dc"><a href="#B1P-2">B1P-2</a></td></tr>
@@ -65,6 +66,7 @@
               <tr><td>16:45-18:15</td><td colspan="8" class="c">Coffee/Tea &amp; Food Networking Social (with guest of honour Ibrahim Gedeon, Telus)</td></tr>
               <tr><td>19:15-21:00</td><td colspan="8" class="c"><a href="events.html#cruise">Sunset Dinner Cruise</a> (short walk from venue, boarding time is at 18:45-19:15)</td></tr>
               <tr><th colspan="9">Wednesday, May 18, 2016</th></tr>
+              <tr><th>Time</th><th>Paper Track 1<span>Room: Pinnacle I</span></th><th>Paper Track 2<span>Room: Pinnacle II</span></th><th>Paper Track 3<span>Room: Pinnacle III</span></th><th>Paper Track 4<span>Room: Shaugnessy I</span></th><th>Paper Track 5<span>Room: Shaugnessy II</span></th><th>Paper Track 6<span>Room: Dundarave</span></th><th>Poster Track 1<span>Room: Point Grey</span></th><th>Poster Track 2<span>Room: Point Grey</span></th></tr>
               <tr><td>08:30-9:15</td><td colspan="8" class="c">NSERC Information Session</td></tr>
               <tr><td>09:30-10:15</td><td colspan="8" class="c">Keynote by <a href="keynotes.html#goldenburg">Andrew Goldenberg, University of Toronto</a></td></tr>
               <tr><td>10:15-10:45</td><td colspan="8" class="c">Health Break</td></tr>
