@@ -64,7 +64,7 @@
               <tr><td>15:00-15:15</td><td colspan="8" class="c">Coffee/Tea Break</td></tr>
               <tr><td>15:15-16:45</td><td class="pe"><a href="#B3L-1">B3L-1</a></td><td class="cn"><a href="#B3L-2">B3L-2</a></td><td class="cs"><a href="#B3L-3">B3L-3</a></td><td class="be"><a href="#B3L-4">B3L-4</a></td><td class="pe"><a href="#B3L-5">B3L-5</a></td><td class="pe"><a href="#B3L-6">B3L-6</a></td><td class="cn"><a href="#B3P-1">B3P-1</a></td><td class="cs"><a href="#B3P-2">B3P-2</a></td></tr>
               <tr><td>16:45-18:15</td><td colspan="8" class="c">Coffee/Tea &amp; Food Networking Social (with guest of honour Ibrahim Gedeon, Telus)</td></tr>
-              <tr><td>19:15-21:00</td><td colspan="8" class="c"><a href="events.html#cruise">Sunset Dinner Cruise</a> (short walk from venue, boarding time is at 18:45-19:15)</td></tr>
+              <tr><td>19:15-22:15</td><td colspan="8" class="c"><a href="events.html#cruise">Sunset Dinner Cruise</a> (short walk from venue, boarding time is at 18:45-19:15)</td></tr>
               <tr><th colspan="9">Wednesday, May 18, 2016</th></tr>
               <tr><th>Time</th><th>Paper Track 1<span>Room: Pinnacle I</span></th><th>Paper Track 2<span>Room: Pinnacle II</span></th><th>Paper Track 3<span>Room: Pinnacle III</span></th><th>Paper Track 4<span>Room: Shaugnessy I</span></th><th>Paper Track 5<span>Room: Shaugnessy II</span></th><th>Paper Track 6<span>Room: Dundarave</span></th><th>Poster Track 1<span>Room: Point Grey</span></th><th>Poster Track 2<span>Room: Point Grey</span></th></tr>
               <tr><td>08:30-9:15</td><td colspan="8" class="c">NSERC Information Session</td></tr>
@@ -72,7 +72,10 @@
               <tr><td>10:15-10:45</td><td colspan="8" class="c">Health Break</td></tr>
               <tr><td>10:45-12:15</td><td class="is"><a href="#C1L-1">C1L-1</a></td><td class="cn"><a href="#C1L-2">C1L-2</a></td><td class="cs"><a href="#C1L-3">C1L-3</a></td><td class="be"><a href="#C1L-4">C1L-4</a></td><td class="pe"><a href="#C1L-5">C1L-5</a></td><td class="sp"><a href="#C1L-6">C1L-6</a></td><td>&#160;</td><td>&#160;</td></tr>
               <tr><td>12:15-13:30</td><td colspan="8" class="c">Lunch Break</td></tr>
-              <tr><td>13:30-15:00</td><td>&#160;</td><td>&#160;</td><td>&#160;</td><td class="be"><a href="#C2L-4">C2L-4</a></td><td class="pe"><a href="#C2L-5">C2L-5</a></td><td class="sp"><a href="#C2L-6">C2L-6</a></td><td>&#160;</td><td>&#160;</td></tr>
+              <tr><td>13:30-15:00</td><td class="is"><a href="events.html#industry">Industry Forum</a></td><td>&#160;</td><td class="is"><a href="docs/WIEBrochure.pdf">WIE Forum</a></td><td class="be"><a href="#C2L-4">C2L-4</a></td><td class="pe"><a href="#C2L-5">C2L-5</a></td><td class="sp"><a href="#C2L-6">C2L-6</a></td><td>&#160;</td><td>&#160;</td></tr>
+              <tr><td>14:15-15:15</td><td colspan="8" class="c">Coffee/Tea Break</td></tr>
+              <tr><td>15:15-16:30</td><td class="is"><a href="events.html#industry">Industry Forum</a>, cont.</td><td>&#160;</td><td class="is"><a href="docs/WIEBrochure.pdf">WIE Forum</a>, cont.</td><td>&#160;</td><td>&#160;</td><td>&#160;</td><td>&#160;</td><td>&#160;</td></tr>
+              <tr><td>16:30-18:00</td><td colspan="8" class="c">Conference Closing &amp; Farewell Cocktail Reception</td></tr>
             </table>
           </div>
           
