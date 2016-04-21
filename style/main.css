@@ -609,6 +609,13 @@ ul li {
   font-size: 0.8em;
 }
 
+.program-session th {
+  background-color: #333;
+  color: white;  
+  border: solid 1px gray;
+}
+
+
 .program-session td.c {
   padding-right: 11%;
 }
