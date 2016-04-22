@@ -1787,6 +1787,15 @@ A 3D mapping algorithm is proposed that enables the fast moving quadrotor to mak
     <chairs>
       <chair>
         <name>
+          <givenname>Mohamed</givenname>
+          <mi/>
+          <surname>Al-Lawati</surname>
+        </name>
+        <affiliation>Sultan Qaboos University</affiliation>
+        <country>Oman</country>
+      </chair>
+      <chair>
+        <name>
           <givenname>Daniel</givenname>
           <mi/>
           <surname>Lee</surname>
@@ -5316,7 +5325,17 @@ voltage of 2.5 V and with a supply voltage of 5.5 V. Since the design is based o
     <starttime>2016-05-16T15:30:00-07:00</starttime>
     <endtime>2016-05-16T17:00:00-07:00</endtime>
     <room>Point Grey</room>
-    <chairs/>
+    <chairs>
+      <chair>
+        <name>
+          <givenname>Robert</givenname>
+          <mi>D.</mi>
+          <surname>Dony</surname>
+        </name>
+        <affiliation>University of Guelph</affiliation>
+        <country>Canada</country>
+      </chair>
+    </chairs>
     <papers>
       <paper>
         <starttime>15:30</starttime>
@@ -6602,7 +6621,17 @@ techniques.</abstract>
     <starttime>2016-05-17T10:45:00-07:00</starttime>
     <endtime>2016-05-17T12:15:00-07:00</endtime>
     <room>Shaugnessy II</room>
-    <chairs/>
+    <chairs>
+      <chair>
+        <name>
+          <givenname>Kexing</givenname>
+          <mi/>
+          <surname>Liu</surname>
+        </name>
+        <affiliation>Mira Connections</affiliation>
+        <country>Canada</country>
+      </chair>
+    </chairs>
     <papers>
       <paper>
         <starttime>10:45</starttime>
@@ -11007,7 +11036,7 @@ privacy of both the client and the server.</abstract>
             </name>
             <id>269027</id>
             <affiliation>Portland State University</affiliation>
-            <country>Korea</country>
+            <country>USA</country>
             <presenter>0</presenter>
           </author>
           <author>
