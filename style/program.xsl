@@ -102,11 +102,16 @@
               
             <strong>Session Chair: </strong> &#160; 
             <xsl:choose>
-              <xsl:when test="chairs/chair"><xsl:value-of select="chairs/chair/name"/> (<xsl:value-of select="chairs/chair/affiliation"/>, <xsl:value-of select="chairs/chair/country"/>)</xsl:when>
+              <xsl:when test="chairs/chair[1]"><xsl:value-of select="chairs/chair[1]/name"/> (<xsl:value-of select="chairs/chair[1]/affiliation"/>, <xsl:value-of select="chairs/chair[1]/country"/>)</xsl:when>
               <xsl:otherwise>TBD</xsl:otherwise>
             </xsl:choose>
-            <br/>
-              
+             
+            <xsl:if test="chairs/chair[2]">
+              , <strong>Co-Chair: </strong> &#160;<xsl:value-of select="chairs/chair[2]/name"/> (<xsl:value-of select="chairs/chair[2]/affiliation"/>, <xsl:value-of select="chairs/chair[2]/country"/>)
+              <br/>
+            </xsl:if>
+            <br/>              
+            
             <dl>
             <xsl:for-each select="papers/paper">
               <dt id="{paperid}" ><xsl:value-of select="starttime"/>-<xsl:value-of select="endtime"/></dt>
