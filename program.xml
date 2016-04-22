@@ -397,7 +397,7 @@
             </name>
             <id>250517</id>
             <affiliation>Helwan University &amp; University College London (UCL)</affiliation>
-            <country>United Kingdom</country>
+            <country>Egypt</country>
             <presenter>0</presenter>
           </author>
         </authors>
@@ -1784,7 +1784,17 @@ A 3D mapping algorithm is proposed that enables the fast moving quadrotor to mak
     <starttime>2016-05-16T10:45:00-07:00</starttime>
     <endtime>2016-05-16T12:15:00-07:00</endtime>
     <room>Point Grey</room>
-    <chairs/>
+    <chairs>
+      <chair>
+        <name>
+          <givenname>Daniel</givenname>
+          <mi/>
+          <surname>Lee</surname>
+        </name>
+        <affiliation>Simon Fraser University</affiliation>
+        <country>Canada</country>
+      </chair>
+    </chairs>
     <papers>
       <paper>
         <starttime>10:45</starttime>
@@ -3693,7 +3703,7 @@ Experimental results on real hardware models demonstrate two orders of magnitude
               <surname>Baun</surname>
             </name>
             <id>1370661</id>
-            <affiliation>Ryerson University</affiliation>
+            <affiliation>Ryerson University &amp; University of Applied Sciences Osnabrueck</affiliation>
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
@@ -7262,7 +7272,17 @@ techniques.</abstract>
     <starttime>2016-05-17T10:45:00-07:00</starttime>
     <endtime>2016-05-17T12:15:00-07:00</endtime>
     <room>Point Grey</room>
-    <chairs/>
+    <chairs>
+      <chair>
+        <name>
+          <givenname>Igor</givenname>
+          <mi/>
+          <surname>Filanovsky</surname>
+        </name>
+        <affiliation>University of Alberta</affiliation>
+        <country>Canada</country>
+      </chair>
+    </chairs>
     <papers>
       <paper>
         <starttime>10:45</starttime>
