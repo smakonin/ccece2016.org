@@ -354,7 +354,7 @@
             <id>275229</id>
             <affiliation>Imam Khomeini International University</affiliation>
             <country>Iran</country>
-            <presenter>0</presenter>
+            <presenter>1</presenter>
           </author>
           <author>
             <name>
@@ -4093,7 +4093,7 @@ Experimental results on real hardware models demonstrate two orders of magnitude
             <id>275229</id>
             <affiliation>Imam Khomeini International University</affiliation>
             <country>Iran</country>
-            <presenter>0</presenter>
+            <presenter>1</presenter>
           </author>
           <author>
             <name>
@@ -6091,7 +6091,7 @@ techniques.</abstract>
             <id>275229</id>
             <affiliation>Imam Khomeini International University</affiliation>
             <country>Iran</country>
-            <presenter>0</presenter>
+            <presenter>1</presenter>
           </author>
           <author>
             <name>
@@ -6130,7 +6130,17 @@ techniques.</abstract>
     <starttime>2016-05-17T10:45:00-07:00</starttime>
     <endtime>2016-05-17T12:15:00-07:00</endtime>
     <room>Pinnacle III</room>
-    <chairs/>
+    <chairs>
+      <chair>
+        <name>
+          <givenname>Youry</givenname>
+          <mi/>
+          <surname>Khmelevsky</surname>
+        </name>
+        <affiliation>Okanagan College</affiliation>
+        <country>Canada</country>
+      </chair>
+    </chairs>
     <papers>
       <paper>
         <starttime>10:45</starttime>
@@ -8149,7 +8159,17 @@ advantage of memristors and the good scalability, and radiation hardness of spin
     <starttime>2016-05-17T13:30:00-07:00</starttime>
     <endtime>2016-05-17T15:00:00-07:00</endtime>
     <room>Pinnacle III</room>
-    <chairs/>
+    <chairs>
+      <chair>
+        <name>
+          <givenname>Mieszko</givenname>
+          <mi/>
+          <surname>Lis</surname>
+        </name>
+        <affiliation>University of British Columbia</affiliation>
+        <country>Canada</country>
+      </chair>
+    </chairs>
     <papers>
       <paper>
         <starttime>13:30</starttime>
@@ -10052,7 +10072,17 @@ power system operation.</abstract>
     <starttime>2016-05-17T15:30:00-07:00</starttime>
     <endtime>2016-05-17T17:00:00-07:00</endtime>
     <room>Pinnacle III</room>
-    <chairs/>
+    <chairs>
+      <chair>
+        <name>
+          <givenname>Haytham</givenname>
+          <mi/>
+          <surname>Elmiligi</surname>
+        </name>
+        <affiliation>Thompson Rivers University</affiliation>
+        <country>Canada</country>
+      </chair>
+    </chairs>
     <papers>
       <paper>
         <starttime>15:30</starttime>
@@ -11154,7 +11184,7 @@ privacy of both the client and the server.</abstract>
     </papers>
   </session>
   <session>
-    <code>B3P-3</code>
+    <code>B3P-2</code>
     <sessiontitle>Hardware, Software, and Applications</sessiontitle>
     <sessionsubtitle/>
     <sessionspeaker/>
@@ -11164,13 +11194,23 @@ privacy of both the client and the server.</abstract>
     <starttime>2016-05-17T15:30:00-07:00</starttime>
     <endtime>2016-05-17T17:00:00-07:00</endtime>
     <room>Point Grey</room>
-    <chairs/>
+    <chairs>
+      <chair>
+        <name>
+          <givenname>Youry</givenname>
+          <mi/>
+          <surname>Khmelevsky</surname>
+        </name>
+        <affiliation>Okanagan College</affiliation>
+        <country>Canada</country>
+      </chair>
+    </chairs>
     <papers>
       <paper>
         <starttime>15:30</starttime>
         <endtime>15:30</endtime>
         <paperid>1570235078</paperid>
-        <sessionid>B3P-3.1</sessionid>
+        <sessionid>B3P-2.1</sessionid>
         <papertitle>Intelligent Intrusion Prevention System For Households Based on System-On-Chip Computer</papertitle>
         <trackname>Computer and Software Engineering</trackname>
         <abstract>Over the course of the last few decades, security systems have undergone radical overhauls and have transitioned into such sophisticated devices that some even completely shun any form of human interventions. In spite of its tremendous innovations, however, such setups have not yet made their way into homes and residences, partly owing to the fact that the equipment bear high price tags and lack user friendliness. This paper propositions a unique security system for residences that aims to solve the shortcomings of commercial alternatives. Basically, a Raspberry Pi 2 System-on-Chip (SoC) computer equipped with a camera module and placed outside the entrance of a house would attempt to identify would-be visitors by the means of image processing and voice identification. The system would spontaneously greet known faces with a friendly voice greeting and unlock the main door to allow them to enter the home. In case of unknown faces, the system would initiate a video call to the home's owner through a smartphone application and allow the owner to communicate with the unknown visitor. Upon receiving approval from the owner, the visitor's details would be entered into the system and the main door would be unlocked. If the owner denies access, he or she has the option to verbally ask the unknown visitor to leave or in extreme cases, press a button to call the police.</abstract>
@@ -11236,7 +11276,7 @@ privacy of both the client and the server.</abstract>
         <starttime>15:30</starttime>
         <endtime>15:30</endtime>
         <paperid>1570235079</paperid>
-        <sessionid>B3P-3.2</sessionid>
+        <sessionid>B3P-2.2</sessionid>
         <papertitle>A Heterogeneous Memory Organization with Minimum Energy Consumption in 3D Chip- Multiprocessors</papertitle>
         <trackname>Computer and Software Engineering</trackname>
         <abstract>Main memories play an important role in overall energy consumption of embedded systems. Using conventional memory technologies in future designs in nanoscale era cause a drastic increase in leakage power consumption and temperature related problems. Emerging non-volatile memory (NVM) technologies offer many desirable characteristics such as near-zero leakage power, high density and non-volatility. They can significantly mitigate the issue of memory leakage power in future embedded chip-multiprocessor (eCMP) systems. However, they suffer from challenges such as limited write endurance and high write energy consumption which restrict them for adoption in modern memory systems. In this article, we propose a stacked hybrid memory system for 3D chip-multiprocessors to take advantages of both traditional and non-volatile memory technologies. For reaching this target, we present a convex optimization-based model that minimizes the system energy consumption while satisfy endurance constraint in order to design a reliable memory system. Experimental results show that the proposed method improves energy-delay product (EDP) and performance by about 44.8% and 13.8% on average respectively compared with the traditional memory design where single technology is used.</abstract>
@@ -11302,7 +11342,7 @@ privacy of both the client and the server.</abstract>
         <starttime>15:30</starttime>
         <endtime>15:30</endtime>
         <paperid>1570235382</paperid>
-        <sessionid>B3P-3.3</sessionid>
+        <sessionid>B3P-2.3</sessionid>
         <papertitle>GPN Game Users Performance Data Gathering and Analysis by a Custom-Built Tool</papertitle>
         <trackname>Computer and Software Engineering</trackname>
         <abstract>This paper discuss the project results of the centralized storage for the client generated statistical data. The project aims was to fill the following requirements: (1) a new web API where local client statistics can be reported to a highly scalable and redundant central database, (2) to enable a user to easily save/share their connection results on a separate webpage, or with a widget that could be easily embedded on a forum page, and (3) to produce aggregate reports suitable for infographics, generated from the data reported by all users. Sample reports could be filtered by game, ISP, region, or some combination thereof.</abstract>
@@ -11368,7 +11408,7 @@ privacy of both the client and the server.</abstract>
         <starttime>15:30</starttime>
         <endtime>15:30</endtime>
         <paperid>1570235392</paperid>
-        <sessionid>B3P-3.4</sessionid>
+        <sessionid>B3P-2.4</sessionid>
         <papertitle>Sport Wearable Biometric Data Encrypted Emulation and Storage in Cloud</papertitle>
         <trackname>Computer and Software Engineering</trackname>
         <abstract>This paper investigates the biometric data emulation and encryption for the sports wearable devices, including data generation performance with different data encryptions for an NoSQL document database. We discuss more deeply a specific topic, related to testing data generation and data encryption for the performance and stress testing of our NoSQL database. &#13;
@@ -11425,7 +11465,7 @@ This research is a small part of a gamification/real-time solution and state tho
         <starttime>15:30</starttime>
         <endtime>15:30</endtime>
         <paperid>1570236740</paperid>
-        <sessionid>B3P-3.5</sessionid>
+        <sessionid>B3P-2.5</sessionid>
         <papertitle>A review of Mobile Banking Security</papertitle>
         <trackname>Computer and Software Engineering</trackname>
         <abstract>Nowadays, IT has an important role in people's life. Bank is one of the example of institute which using IT in its daily tasks. Customer's personal information which has stored by the bank is considered as private and has to be saving securely by bank. Only legal staff of bank, also legal customers can operate any of the tasks. Hence, bank has own system to protect its transaction tasks such as online and offline transactions. Bank account hacking has caused millions money losses around the world. It is important to achieve how the security aspects in a banking system can influence great lost to the financial institution. This paper reports on the aiming at identifying and classifying Mobile banking payment security challenges. First, different security risks of mobile banking have been presented. In addition, different methods of encryption have been presented. Moreover, our method which has two layers of security has been presented. Furthermore, for preparing the security of the Network Layer, our method will authorize the Message format with Check sum.</abstract>
@@ -11447,7 +11487,7 @@ This research is a small part of a gamification/real-time solution and state tho
         <starttime>15:30</starttime>
         <endtime>15:30</endtime>
         <paperid>1570237237</paperid>
-        <sessionid>B3P-3.6</sessionid>
+        <sessionid>B3P-2.6</sessionid>
         <papertitle>Development of a Credible and Integrated Electronic Voting Machine Based on Contactless IC Cards, Biometric Fingerprint Credentials and POS Printer</papertitle>
         <trackname>Computer and Software Engineering</trackname>
         <abstract>In recent times there has been a decline in the confidence of common people over electronic voting machines (EVMs). More anticipated than what the reality actually is, today's automated vote casting methods have faced immense controversy related to being vulnerable to hacking and questions have been raised about their transparency and security. This paper proposes the design and development of a novel fault tolerant electronic voting system that aims to mitigate the recurring issues and flaws of existing voting machines of today. To elucidate the system in brief, a two stage verification process would be carried out on a potential voter by the means of fingerprint recognition and a Near Field Communication (NFC) smart card entry in order to authenticate his or her identity. Subsequently, the person would cast the vote by pressing a button corresponding to a particular candidate which would be recorded in the system providing the vote caster a visual confirmation. The final vote would then be printed out spontaneously onto a ballot box using a POS printer for an added level of validation. This system not only prevents multiple vote casts, but also eliminates the discrepancies that commonly arise with a person claiming not to have voted, whereas his or her name is present in the list of vote casters. The project is an incremental extension of a previous research.</abstract>
@@ -11502,7 +11542,7 @@ This research is a small part of a gamification/real-time solution and state tho
         <starttime>15:30</starttime>
         <endtime>15:30</endtime>
         <paperid>1570238803</paperid>
-        <sessionid>B3P-3.7</sessionid>
+        <sessionid>B3P-2.7</sessionid>
         <papertitle>TEFS: A Flash File System for Use on Memory Constrained Devices</papertitle>
         <trackname>Computer and Software Engineering</trackname>
         <abstract>A file system is used to manage data on storage media. The FAT (File Allocation Table) file system was originally designed for floppy drives that were less than 500KB in size, and these drives were not capable of fast random reads and writes. FAT has been adapted to work on other types of storage devices since, and it is still widely used today. It is the standard file system used by microprocessors and embedded devices with constrained resources. Micro-controllers, like the Arduino, only officially support the FAT file system when interacting with a SD card. FAT performs well when data is read or written sequentially, but when data is read or written randomly, there is an impact on performance for large files on page based flash devices that cannot utilize caching strategies. Applications that perform random reading and writing are impacted by this architectural issue. For example, flash data structures, like a B-tree, will have poor performance since random reading is utilized to look up values. TEFS (Tiny Embedded File System) uses a tree indexing structure to take advantage of the fast random reads and writes of flash storage and guarantees that the number of page reads and writes will stay constant as the file size increases when randomly reading or writing. Experimental results show that TEFS has significantly better performance than FAT for random I/Os, and the more efficient TEFS implementation is even slightly faster than FAT for sequential reading and writing.</abstract>
@@ -11546,7 +11586,7 @@ This research is a small part of a gamification/real-time solution and state tho
         <starttime>15:30</starttime>
         <endtime>15:30</endtime>
         <paperid>1570239126</paperid>
-        <sessionid>B3P-3.8</sessionid>
+        <sessionid>B3P-2.8</sessionid>
         <papertitle>Rapid design space exploration of multi-clock domain MPSoCs with Hybrid Prototyping</papertitle>
         <trackname>Computer and Software Engineering</trackname>
         <abstract>This paper presents novel techniques of using hybrid prototyping for early power-performance analysis of MPSoC designs with multiple clock domains. The fundamental idea of hybrid prototyping is to simulate a design with multiple cores by creating an emulation kernel in software on top of a single physical instance of the core. However, so far hybrid prototyping has been limited to homogeneous multicores running at the same clock frequency. Moreover, hybrid prototyping has not yet been demonstrated for efficient design space exploration. Our work focuses on enhancing the capabilities of hybrid prototyping, such that it can be applied to realistic multi-clock MPSoC designs as well to perform early power-performance evaluation of MPSoC designs. Our experiments using industrial strength applications such as JPEG, MP3 and Packet Processing, demonstrate the high accuracy of our hybrid prototypes, and over two orders of magnitude improvement over software simulation speed. We also demonstrate that exploring over 150 design options using hybrid prototyping can be done with high reliability in the order of minutes compared to multiple days using conventional FPGA prototyping.</abstract>
@@ -11946,7 +11986,17 @@ This research is a small part of a gamification/real-time solution and state tho
     <starttime>2016-05-18T10:45:00-07:00</starttime>
     <endtime>2016-05-18T12:15:00-07:00</endtime>
     <room>Pinnacle III</room>
-    <chairs/>
+    <chairs>
+      <chair>
+        <name>
+          <givenname>Kexing</givenname>
+          <mi/>
+          <surname>Liu</surname>
+        </name>
+        <affiliation>Mira Connections</affiliation>
+        <country>Canada</country>
+      </chair>
+    </chairs>
     <papers>
       <paper>
         <starttime>10:45</starttime>
@@ -12469,7 +12519,7 @@ This research is a small part of a gamification/real-time solution and state tho
             <id>1367698</id>
             <affiliation>Corporación Unificada Nacional de Educación Superior - CUN</affiliation>
             <country>Colombia</country>
-            <presenter>0</presenter>
+            <presenter>1</presenter>
           </author>
           <author>
             <name>
