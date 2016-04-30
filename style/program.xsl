@@ -45,6 +45,7 @@
             <table>
               <tr><th colspan="9">Monday, May 16, 2016</th></tr>
               <tr><th>Time</th><th>Paper Track 1<span>Room: Pinnacle I</span></th><th>Paper Track 2<span>Room: Pinnacle II</span></th><th>Paper Track 3<span>Room: Pinnacle III</span></th><th>Paper Track 4<span>Room: Shaugnessy I</span></th><th>Paper Track 5<span>Room: Shaugnessy II</span></th><th>Paper Track 6<span>Room: Dundarave</span></th><th>Poster Track 1<span>Room: Point Grey</span></th><th>Poster Track 2<span>Room: Point Grey</span></th></tr>
+              <tr><td>07:15-07:45</td><td colspan="8" class="c">Morning Coffee and Continental Breakfast</td></tr>
               <tr><td>08:00-08:30</td><td colspan="8" class="c">Opening Ceremony and Address by <a href="keynotes.html#wilkinson">Honourable Andrew Wilkinson, BC Minister of Advanced Education</a></td></tr>
               <tr><td>08:30-10:15</td><td colspan="8" class="c">Keynotes by <a href="keynotes.html#groene">Ralf Groene, Microsoft</a> &amp; <a href="keynotes.html#thompson">Alan Thompson, MDA</a></td></tr>
               <tr><td>10:15-10:45</td><td colspan="8" class="c">Health Break</td></tr>
