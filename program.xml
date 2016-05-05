@@ -15,6 +15,15 @@
     <chairs>
       <chair>
         <name>
+          <givenname>Li</givenname>
+          <mi/>
+          <surname>Chen</surname>
+        </name>
+        <affiliation>University of Saskatchewan</affiliation>
+        <country>Canada</country>
+      </chair>
+      <chair>
+        <name>
           <givenname>David</givenname>
           <mi/>
           <surname>Hiemstra</surname>
@@ -753,7 +762,7 @@
             <id>814901</id>
             <affiliation>University of Western Ontario</affiliation>
             <country>Canada</country>
-            <presenter>0</presenter>
+            <presenter>1</presenter>
           </author>
           <author>
             <name>
@@ -3288,6 +3297,28 @@ Experimental results on real hardware models demonstrate two orders of magnitude
             <country>Canada</country>
             <presenter>0</presenter>
           </author>
+          <author>
+            <name>
+              <givenname>Behraad</givenname>
+              <mi/>
+              <surname>Bahreyni</surname>
+            </name>
+            <id>103877</id>
+            <affiliation>Simon Fraser University</affiliation>
+            <country>Canada</country>
+            <presenter>0</presenter>
+          </author>
+          <author>
+            <name>
+              <givenname>Fabio</givenname>
+              <mi/>
+              <surname>Campi</surname>
+            </name>
+            <id>1349294</id>
+            <affiliation>Simon Fraser University</affiliation>
+            <country>Canada</country>
+            <presenter>0</presenter>
+          </author>
         </authors>
       </paper>
       <paper>
@@ -5355,7 +5386,7 @@ voltage of 2.5 V and with a supply voltage of 5.5 V. Since the design is based o
             <id>546465</id>
             <affiliation>University of Guelph</affiliation>
             <country>Canada</country>
-            <presenter>1</presenter>
+            <presenter>0</presenter>
           </author>
           <author>
             <name>
@@ -5366,7 +5397,7 @@ voltage of 2.5 V and with a supply voltage of 5.5 V. Since the design is based o
             <id>104882</id>
             <affiliation>University of Guelph</affiliation>
             <country>Canada</country>
-            <presenter>0</presenter>
+            <presenter>1</presenter>
           </author>
         </authors>
       </paper>
@@ -9532,7 +9563,7 @@ power system operation.</abstract>
             <id>710539</id>
             <affiliation>University of Calgary</affiliation>
             <country>Canada</country>
-            <presenter>0</presenter>
+            <presenter>1</presenter>
           </author>
         </authors>
       </paper>
