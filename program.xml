@@ -15,20 +15,20 @@
     <chairs>
       <chair>
         <name>
-          <givenname>Li</givenname>
-          <mi/>
-          <surname>Chen</surname>
-        </name>
-        <affiliation>University of Saskatchewan</affiliation>
-        <country>Canada</country>
-      </chair>
-      <chair>
-        <name>
           <givenname>David</givenname>
           <mi/>
           <surname>Hiemstra</surname>
         </name>
         <affiliation>MDA</affiliation>
+        <country>Canada</country>
+      </chair>
+      <chair>
+        <name>
+          <givenname>Li</givenname>
+          <mi/>
+          <surname>Chen</surname>
+        </name>
+        <affiliation>University of Saskatchewan</affiliation>
         <country>Canada</country>
       </chair>
     </chairs>
@@ -1573,7 +1573,7 @@ A 3D mapping algorithm is proposed that enables the fast moving quadrotor to mak
               <surname>Ismail</surname>
             </name>
             <id>266043</id>
-            <affiliation>Northwestern University</affiliation>
+            <affiliation>American University in Cairo</affiliation>
             <country>USA</country>
             <presenter>0</presenter>
           </author>
@@ -2057,7 +2057,7 @@ A 3D mapping algorithm is proposed that enables the fast moving quadrotor to mak
             <id>1116727</id>
             <affiliation>COPL</affiliation>
             <country>Canada</country>
-            <presenter>0</presenter>
+            <presenter>1</presenter>
           </author>
           <author>
             <name>
@@ -2503,7 +2503,7 @@ A 3D mapping algorithm is proposed that enables the fast moving quadrotor to mak
             <id>477029</id>
             <affiliation>Beijing University of Posts and Telecommunications</affiliation>
             <country>P.R. China</country>
-            <presenter>0</presenter>
+            <presenter>2</presenter>
           </author>
           <author>
             <name>
