@@ -46,7 +46,7 @@
               <tr><th id="Sun" colspan="9">Sunday, May 15, 2016</th></tr>
               <tr><td>18:00-21:00</td><td colspan="8" class="c"><a href="docs/SocialEvents.pdf">Welcome! - Evening Reception</a> (in Point Grey Room)</td></tr>
               
-              <tr><th id="Mon" colspan="9">Monday, May 16, 2016</th></tr>
+              <tr><th id="mon" colspan="9">Monday, May 16, 2016</th></tr>
               <tr><th>Time</th><th>Lecture Track 1<span>Room: Pinnacle I</span></th><th>Lecture Track 2<span>Room: Pinnacle II</span></th><th>Lecture Track 3<span>Room: Pinnacle III</span></th><th>Lecture Track 4<span>Room: Shaugnessy I</span></th><th>Lecture Track 5<span>Room: Shaugnessy II</span></th><th>Lecture Track 6<span>Room: Dundarave</span></th><th>Poster Track 1<span>Room: Point Grey</span></th><th>Poster Track 2<span>Room: Point Grey</span></th></tr>
               <tr><td>07:15-07:45</td><td colspan="8" class="c">Morning Coffee and Continental Breakfast</td></tr>
               <tr><td>08:00-08:30</td><td colspan="8" class="c">Opening Ceremony and Address by <a href="keynotes.html#wilkinson">Honourable Andrew Wilkinson, BC Minister of Advanced Education</a></td></tr>
@@ -59,7 +59,7 @@
               <tr><td>15:30-17:00</td><td class="pe"><a href="#A3L-1">A3L-1</a></td><td class="cn"><a href="#A3L-2">A3L-2</a></td><td class="cn"><a href="#A3L-3">A3L-3</a></td><td class="sp"><a href="#A3L-4">A3L-4</a></td><td class="cr"><a href="#A3L-5">A3L-5</a></td><td class="dc"><a href="#A3L-6">A3L-6</a></td><td class="pe"><a href="#A3P-1">A3P-1</a></td><td class="sp"><a href="#A3P-2">A3P-2</a></td></tr>
               <tr><td>18:30-21:00</td><td colspan="8" class="c">Awards Banquet</td></tr>
               
-              <tr><th id="Tue" colspan="9">Tuesday, May 17, 2016</th></tr>
+              <tr><th id="tue" colspan="9">Tuesday, May 17, 2016</th></tr>
               <tr><th>Time</th><th>Lecture Track 1<span>Room: Pinnacle I</span></th><th>Lecture Track 2<span>Room: Pinnacle II</span></th><th>Lecture Track 3<span>Room: Pinnacle III</span></th><th>Lecture Track 4<span>Room: Shaugnessy I</span></th><th>Lecture Track 5<span>Room: Shaugnessy II</span></th><th>Lecture Track 6<span>Room: Dundarave</span></th><th>Poster Track 1<span>Room: Point Grey</span></th><th>Poster Track 2<span>Room: Point Grey</span></th></tr>
               <tr><td>08:30-10:15</td><td colspan="8" class="c">Keynotes by <a href="keynotes.html#hilton">Jeremy Hilton, D-Wave</a> &amp; <a href="keynotes.html#morison">Kip Morison, BC Hydro</a></td></tr>
               <tr><td>10:15-10:45</td><td colspan="8" class="c">Health Break</td></tr>
@@ -71,7 +71,7 @@
               <tr><td>16:45-18:15</td><td colspan="8" class="c">Coffee/Tea &amp; Food Networking Social (with guest of honour <a href="keynotes.html#gedeon">Ibrahim Gedeon, Telus</a>)</td></tr>
               <tr><td>19:15-22:15</td><td colspan="8" class="c"><a href="events.html#cruise">Sunset Dinner Cruise</a> (short walk from venue, boarding time is at 18:45-19:15)</td></tr>
               
-              <tr><th id="Wed" colspan="9">Wednesday, May 18, 2016</th></tr>
+              <tr><th id="wed" colspan="9">Wednesday, May 18, 2016</th></tr>
               <tr><th>Time</th><th>Lecture Track 1<span>Room: Pinnacle I</span></th><th>Lecture Track 2<span>Room: Pinnacle II</span></th><th>Lecture Track 3<span>Room: Pinnacle III</span></th><th>Lecture Track 4<span>Room: Shaugnessy I</span></th><th>Lecture Track 5<span>Room: Shaugnessy II</span></th><th>Lecture Track 6<span>Room: Dundarave</span></th><th>Poster Track 1<span>Room: Point Grey</span></th><th>Poster Track 2<span>Room: Point Grey</span></th></tr>
               <tr><td>08:30-9:15</td><td colspan="8" class="c">NSERC Information Session</td></tr>
               <tr><td>09:30-10:15</td><td colspan="8" class="c">Keynote by <a href="keynotes.html#goldenburg">Andrew Goldenberg, University of Toronto</a></td></tr>
@@ -96,10 +96,19 @@
             <span id="{code}" class="session-title">
               <span style="font-weight:bold"><xsl:value-of select="papers/paper/trackname"/>: </span> 
               <xsl:value-of select="code"/> &#8212; <xsl:value-of select="sessiontitle"/>
-              <a class="totop" href="#"><i class="ion-android-arrow-dropup-circle"></i></a>
+              <xsl:choose>
+                <xsl:when test="substring(date,1,2)='16'"><a class="totop" href="#mon"><i class="ion-android-arrow-dropup-circle"></i></a></xsl:when>
+                <xsl:when test="substring(date,1,2)='17'"><a class="totop" href="#tue"><i class="ion-android-arrow-dropup-circle"></i></a></xsl:when>
+                <xsl:when test="substring(date,1,2)='18'"><a class="totop" href="#wed"><i class="ion-android-arrow-dropup-circle"></i></a></xsl:when>
+              </xsl:choose>
             </span>
-              
-            <strong>Date/Time/Location: </strong> &#160; <xsl:value-of select="date"/> @ <xsl:value-of select="range"/> in Room
+                        
+            <strong>Date/Time/Location: </strong> &#160; <xsl:value-of select="long_date"/>
+            <xsl:choose>
+              <xsl:when test="substring(date,1,2)='16'">Monday</xsl:when>
+              <xsl:when test="substring(date,1,2)='17'">Tuesday</xsl:when>
+              <xsl:when test="substring(date,1,2)='18'">Wednesday</xsl:when>
+            </xsl:choose>, <xsl:value-of select="date"/> @ <xsl:value-of select="range"/> in Room
             <xsl:choose>
               <xsl:when test="room=''">TBD</xsl:when>
               <xsl:otherwise><xsl:value-of select="room"/></xsl:otherwise>
