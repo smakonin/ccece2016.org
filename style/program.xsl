@@ -61,7 +61,7 @@
               
               <tr><th id="tue" colspan="9">Tuesday, May 17, 2016</th></tr>
               <tr><th>Time</th><th>Lecture Track 1<span>Room: Pinnacle I</span></th><th>Lecture Track 2<span>Room: Pinnacle II</span></th><th>Lecture Track 3<span>Room: Pinnacle III</span></th><th>Lecture Track 4<span>Room: Shaugnessy I</span></th><th>Lecture Track 5<span>Room: Shaugnessy II</span></th><th>Lecture Track 6<span>Room: Dundarave</span></th><th>Poster Track 1<span>Room: Point Grey</span></th><th>Poster Track 2<span>Room: Point Grey</span></th></tr>
-              <tr><td>08:30-10:15</td><td colspan="8" class="c">Keynotes by <a href="keynotes.html#hilton">Jeremy Hilton, D-Wave</a> &amp; <a href="keynotes.html#morison">Kip Morison, BC Hydro</a></td></tr>
+              <tr><td>08:30-10:15</td><td colspan="8" class="c">Keynotes by <a href="keynotes.html#goldenburg">Andrew Goldenberg, University of Toronto</a> &amp; <a href="keynotes.html#morison">Kip Morison, BC Hydro</a></td></tr>
               <tr><td>10:15-10:45</td><td colspan="8" class="c">Health Break</td></tr>
               <tr><td>10:45-12:15</td><td class="is"><a href="#B1L-1">B1L-1</a></td><td class="cn"><a href="#B1L-2">B1L-2</a></td><td class="cs"><a href="#B1L-3">B1L-3</a></td><td class="sp"><a href="#B1L-4">B1L-4</a></td><td class="sp"><a href="#B1L-5">B1L-5</a></td><td class="pe"><a href="#B1L-6">B1L-6</a></td><td class="cn"><a href="#B1P-1">B1P-1</a></td><td class="dc"><a href="#B1P-2">B1P-2</a></td></tr>
               <tr><td>12:15-13:30</td><td colspan="8" class="c">Lunch Break</td></tr>
@@ -74,7 +74,7 @@
               <tr><th id="wed" colspan="9">Wednesday, May 18, 2016</th></tr>
               <tr><th>Time</th><th>Lecture Track 1<span>Room: Pinnacle I</span></th><th>Lecture Track 2<span>Room: Pinnacle II</span></th><th>Lecture Track 3<span>Room: Pinnacle III</span></th><th>Lecture Track 4<span>Room: Shaugnessy I</span></th><th>Lecture Track 5<span>Room: Shaugnessy II</span></th><th>Lecture Track 6<span>Room: Dundarave</span></th><th>Poster Track 1<span>Room: Point Grey</span></th><th>Poster Track 2<span>Room: Point Grey</span></th></tr>
               <tr><td>08:30-9:15</td><td colspan="8" class="c">NSERC Information Session</td></tr>
-              <tr><td>09:30-10:15</td><td colspan="8" class="c">Keynote by <a href="keynotes.html#goldenburg">Andrew Goldenberg, University of Toronto</a></td></tr>
+              <tr><td>09:30-10:15</td><td colspan="8" class="c">Keynote by <a href="keynotes.html#hilton">Jeremy Hilton, D-Wave</a></td></tr>
               <tr><td>10:15-10:45</td><td colspan="8" class="c">Health Break</td></tr>
               <tr><td>10:45-12:15</td><td class="is"><a href="#C1L-1">C1L-1</a></td><td class="cn"><a href="#C1L-2">C1L-2</a></td><td class="cs"><a href="#C1L-3">C1L-3</a></td><td class="be"><a href="#C1L-4">C1L-4</a></td><td class="pe"><a href="#C1L-5">C1L-5</a></td><td class="sp"><a href="#C1L-6">C1L-6</a></td><td>&#160;</td><td>&#160;</td></tr>
               <tr><td>12:15-13:30</td><td colspan="8" class="c">Lunch Break</td></tr>
